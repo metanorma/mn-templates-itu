@@ -1,10 +1,6 @@
 = ITU Metanorma Templates
 
 image:https://github.com/metanorma/mn-templates-itu/workflows/defaults/badge.svg["Build Status", link="https://github.com/metanorma/mn-templates-itu/actions?workflow=defaults"]
-image:https://github.com/metanorma/mn-templates-itu/workflows/macos/badge.svg["Build Status", link="https://github.com/metanorma/mn-templates-itu/actions?workflow=macos"]
-image:https://github.com/metanorma/mn-templates-itu/workflows/ubuntu/badge.svg["Build Status", link="https://github.com/metanorma/mn-templates-itu/actions?workflow=ubuntu"]
-image:https://github.com/metanorma/mn-templates-itu/workflows/windows/badge.svg["Build Status", link="https://github.com/metanorma/mn-templates-itu/actions?workflow=windows"]
-image:https://github.com/metanorma/mn-templates-itu/workflows/docker/badge.svg["Build Status", link="https://github.com/metanorma/mn-templates-itu/actions?workflow=docker"]
 
 This GitHub repository contains templates for ITU documents.
 
