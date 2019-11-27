@@ -1,0 +1,36 @@
+= ITU Metanorma Templates
+
+image:https://github.com/metanorma/mn-templates-itu/workflows/defaults/badge.svg["Build Status", link="https://github.com/metanorma/mn-templates-itu/actions?workflow=defaults"]
+image:https://github.com/metanorma/mn-templates-itu/workflows/macos/badge.svg["Build Status", link="https://github.com/metanorma/mn-templates-itu/actions?workflow=macos"]
+image:https://github.com/metanorma/mn-templates-itu/workflows/ubuntu/badge.svg["Build Status", link="https://github.com/metanorma/mn-templates-itu/actions?workflow=ubuntu"]
+image:https://github.com/metanorma/mn-templates-itu/workflows/windows/badge.svg["Build Status", link="https://github.com/metanorma/mn-templates-itu/actions?workflow=windows"]
+image:https://github.com/metanorma/mn-templates-itu/workflows/docker/badge.svg["Build Status", link="https://github.com/metanorma/mn-templates-itu/actions?workflow=docker"]
+
+This GitHub repository contains templates for ITU documents.
+
+Note that the Apache license applies only to the template.
+Once a document has been created
+the license must reflect the ITU document license.
+
+This repository is used by the `metanorma new` command to create new documents.
+
+== Templates included
+
+These templates are provided in this template repository:
+
+`recommendation`::
+  (`doctype == 'recommendation'`)
+
+These ``doctype``s aren't supported yet:
+
+* `recommendation-supplement`
+* `recommendation-amendment`
+* `recommendation-corrigendum`
+* `recommendation-errata`
+* `recommendation-annex`
+* `resolution`
+* `focus-group`
+* `implementers-guide`
+* `technical-paper`
+* `technical-report`
+* `joint-itu-iso-iec`
