@@ -1,0 +1,13 @@
+
+[abstract]
+== Summary
+This document is ...
+
+This revision contains all updates submitted up to and including those at Study Group YY meeting in {Month Year}.
+
+This document was approved by ITU-T Study Group YY on {Day Month Year} and {obsoletes | complements} the earlier version of this implementers' guide approved on {Day Month Year}.
+
+
+
+== Change log
+// {…Add here the change log history…}

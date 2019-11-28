@@ -1,0 +1,27 @@
+= Implementer's Guide
+:bureau: T
+:docnumber: W.3000 (fictitious)
+:series: W: Authoring templates
+:series1: Implementer's Guide
+:series2: Metanorma template
+:published-date: 2050-02-28
+:status: draft
+:doctype: implementers-guide
+:keywords: authoring, implementers-guide, template, metanorma
+:imagesdir: images
+:docfile: document.adoc
+:mn-document-class: itu
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
+
+
+include::sections/00-summary.adoc[]
+include::sections/01-scope.adoc[]
+include::sections/02-introduction.adoc[]
+include::sections/03-procedure.adoc[]
+include::sections/04-norm-refs.adoc[]
+include::sections/05-nomenclature.adoc[]
+include::sections/06-corrections.adoc[]
+
+include::sections/a1-annex.adoc[]
