@@ -1,0 +1,7 @@
+
+[[appendix1]]
+[appendix,obligation=informative]
+== Appendix Title
+// [ADD TEXT, IF ANY].
+
+Body of Appendix I.
