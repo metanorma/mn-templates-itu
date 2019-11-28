@@ -1,0 +1,30 @@
+= Technical Paper
+:bureau: T
+:comment: ### Title (x is the closest Series related to this document: F, G, H, I, T, V, etc, ACRONYM is 4 letters reflecting the title or subject matter)
+:docnumber: xSTP-ACRONYM
+:series: W: Authoring templates
+:series1: Technical Paper
+:series2: Metanorma template
+:published-date: 2050-02-28
+:status: draft
+:doctype: technical-paper
+:keywords: authoring, technical-paper, template, metanorma
+:imagesdir: images
+:docfile: document.adoc
+:mn-document-class: itu
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
+
+
+
+include::sections/00-summary.adoc[]
+include::sections/01-scope.adoc[]
+include::sections/02-norm-refs.adoc[]
+include::sections/03-terms.adoc[]
+include::sections/04-abbrev.adoc[]
+include::sections/05-contents.adoc[]
+
+include::sections/a1-annex.adoc[]
+
+include::sections/a2-appendix.adoc[]

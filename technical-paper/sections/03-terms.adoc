@@ -1,0 +1,38 @@
+
+== Terms and definitions
+
+=== Terms defined elsewhere
+// This Technical Paper uses the following terms defined elsewhere:
+
+==== playlist
+
+Composed of a list of contents.
+
+NOTE: This data is created and provided by digital service providers.
+
+[.source]
+<<h780>>
+
+==== metadata
+
+Structured information that pertains to the identity of users, systems, services, processes, resources, information or other entities.
+
+[.source]
+<<p56>>
+
+=== Terms defined here
+// This Technical Paper defines the following terms:
+
+==== region
+
+A partial area of the screen layout to be a content displayed.
+
+[.source]
+<<iso3166>>
+
+==== screen layout
+
+A composition of one or moreregions to be content displayed.
+
+[.source]
+<<h780>>
