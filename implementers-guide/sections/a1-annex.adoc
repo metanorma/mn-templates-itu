@@ -1,0 +1,6 @@
+
+[[annexA]]
+[appendix,obligation=normative]
+== {Rec # | Series} Defect Report Form
+
+// Body of Annex.

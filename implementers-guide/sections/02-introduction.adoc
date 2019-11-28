@@ -1,0 +1,11 @@
+
+
+== Introduction
+
+This implementers' guide is a compilation of reported defects for all versions of the {Rec # | Series} of Recommendations. In this edition of the guide, reported defects identified as of {yyyy-mm} are given for:
+
+
+// list of recommendations to which the text applies
+
+
+The guide must be read in conjunction with {Recommendation(s) # | H.xxx.x sub-series of Recommendations} to serve as an additional source of information for implementers. The changes, clarifications and corrections defined herein are expected to be included in future versions of the affected Recommendations.

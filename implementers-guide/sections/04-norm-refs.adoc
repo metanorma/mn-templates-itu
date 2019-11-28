@@ -1,0 +1,13 @@
+
+[bibliography]
+== References
+
+// list of recommendations to which the text applies, for example: 
+
+* [[[h780,ITU-T H.780]]]
+
+* [[[p56,ITU-T P.56]]]
+
+* [[[iso3166,ISO 3166-1]]]
+
+* [[[xmlschema, W3C XMLSchema]]] W3C Recommendation (2004), _XML Schema Part 2: Datatypes Second Edition_.
