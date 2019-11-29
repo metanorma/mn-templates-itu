@@ -1,0 +1,39 @@
+
+[preface]
+== {blank}
+
+[%unnumbered]
+[cols="a,a,a,a,a,a,a,a,a",options="header"]
+|===
+3+a| Question(s):
+6+a| Meeting, date:
+
+2+a| Study Group: 2+a| Working Party: 5+a| Intended type of document (R-C-TD):
+
+9+a| Source:
+
+9+a| Title:
+
+a| *Contact:*
+4+a| < Name >
+4+a| Tel:
+
+|
+4+a| < Organization >
+4+a| Fax:
+|
+4+a| < Country >
+4+a| Email:
+
+5+a| *Contact:*
+4+a| Tel:
+
+5+a|
+4+a| Fax:
+
+5+a|
+4+a| Email:
+
+9+.<| Please do not change the structure of this table, just insert the necessary information.
+
+|===
