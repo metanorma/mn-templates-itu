@@ -1,0 +1,19 @@
+
+[bibliography]
+== Bibliography
+
+////
+Optional – As Supplements are non-normative, all references can be
+placed in clause 2.
+
+However, some authors prefer to also list additional documents in a
+bibliography
+////
+
+* [[[x1255,ITU-T X.1255]]]
+
+* [[[iso8601-1,ISO 8601-1]]]
+
+* [[[iso19136,ISO 19136]]]
+
+* [[[rfc5646,IETF RFC 5646]]]

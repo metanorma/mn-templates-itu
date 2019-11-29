@@ -1,0 +1,19 @@
+
+[[appendix1]]
+[appendix,obligation=informative]
+== Appendix Title
+
+////
+Note that it is preferable not to have annexes in Supplements, only
+appendices. The use of annexes is in practice reserved for
+Recommendations.
+
+Include here the content of appendix I
+////
+
+Body of Appendix I.
+
+[format="csv",options="header"]
+|===
+include::../data/codes.csv[]
+|===
