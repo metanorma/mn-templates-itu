@@ -17,6 +17,9 @@ These templates are provided in this template repository:
 `recommendation`::
   (`doctype == 'recommendation'`)
 
+`supplement`::
+  (`doctype == 'supplement'`)
+
 These ``doctype``s aren't supported yet:
 
 * `recommendation-supplement`
