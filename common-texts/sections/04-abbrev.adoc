@@ -1,0 +1,9 @@
+
+[[abbreviations]]
+== Abbreviations
+
+For the purposes of this Recommendation | International Standard, the following abbreviations apply:
+
+////
+< Include all abbreviations used in this Recommendation | International Standard >
+////
