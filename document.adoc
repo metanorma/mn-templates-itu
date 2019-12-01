@@ -1,0 +1,27 @@
+= Title (x is the closest Series related to this document: F, G, H, I, T, V, etc, ACRONYM is 4 letters reflecting the title or subject matter)
+:bureau: T
+:docnumber: Technical Report
+:series: xSTR-ACRONYM
+:published-date: dd MMM YYYY
+:status: draft
+:doctype: supplement
+:keywords: [if any provided]
+:imagesdir: images
+:docfile: document.adoc
+:mn-document-class: itu
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
+
+include::sections/00-preface.adoc[]
+include::sections/00-summary.adoc[]
+include::sections/01-scope.adoc[]
+include::sections/02-norm-refs.adoc[]
+include::sections/03-terms.adoc[]
+include::sections/04-abbrev.adoc[]
+include::sections/05-content.adoc[]
+
+include::sections/a1-annexA.adoc[]
+
+include::sections/a1-appendix.adoc[]
+

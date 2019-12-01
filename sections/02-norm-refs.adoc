@@ -1,0 +1,6 @@
+
+[[references]]
+[bibliography]
+== References
+
+// [1] Add references here.

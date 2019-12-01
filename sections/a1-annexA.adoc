@@ -1,0 +1,6 @@
+
+[appendix]
+[[annexA]]
+== Example of annex
+
+// [ADD TEXT].

@@ -1,0 +1,28 @@
+
+[[specific_contents]]
+== Specific contents: could be introduction or something more substantive
+
+// [ADD TEXT].
+
+[[table1]]
+.Example of a table
+|===
+^.^h| Number ^.^h| Observation
+
+| 1 | Sample table
+
+| 2 | Table header (1st row) uses style Table_head
+| 3 | Other table rows use style Table_text
+| 4 | Heading with table number uses style "Table_No & title"
+
+|===
+
+
+[[table2]]
+[%unnumbered]
+.Example of a figure
+|===
+h| A h| → h| B
+|===
+
+Captions for figures use WinWord style "Figure_No & title"
