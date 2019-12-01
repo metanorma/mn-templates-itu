@@ -1,0 +1,27 @@
+= < Recommendation | International Standard title >
+:bureau: T
+:docnumber:
+:series1: INTERNATIONAL STANDARD < Nbr >
+:series2: RECOMMENDATION ITU-T < Nbr >
+:published-date: dd MMM YYYY
+:status: draft
+:doctype: supplement
+:keywords: <Mandatory>
+:imagesdir: images
+:docfile: document.adoc
+:mn-document-class: itu
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
+
+include::sections/00-preface.adoc[]
+include::sections/00-summary.adoc[]
+include::sections/00-intro.adoc[]
+include::sections/01-scope.adoc[]
+include::sections/02-norm-refs.adoc[]
+include::sections/03-defs.adoc[]
+include::sections/04-abbrev.adoc[]
+include::sections/05-conventions.adoc[]
+include::sections/06-content.adoc[]
+
+
