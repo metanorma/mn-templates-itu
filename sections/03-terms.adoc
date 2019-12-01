@@ -1,0 +1,46 @@
+[[terms_and_definitions]]
+
+== Terms and definitions
+
+[[terms_defined_elsewhere]]
+=== Terms defined elsewhere
+
+This Technical Report uses the following terms defined elsewhere:
+
+[[term1]]
+==== term 
+
+definition
+
+[.source]
+<<reference>>
+
+[[term2]]
+==== term
+
+definition
+
+[.source]
+<<reference>>
+
+
+[[terms_defined_here]]
+=== Terms defined here
+
+This Technical Report defines the following terms:
+
+[[term3]]
+==== term
+
+definition
+
+[.source]
+<<reference>>
+
+[[term4]]
+==== term
+
+definition
+
+[.source]
+<<reference>>
