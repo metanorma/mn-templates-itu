@@ -2,7 +2,7 @@
 [[specific_contents]]
 == Specific contents: could be introduction or something more substantive
 
-// [ADD TEXT].
+[ADD TEXT].
 
 [[table1]]
 .Example of a table
