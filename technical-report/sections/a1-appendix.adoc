@@ -3,4 +3,4 @@
 [[appendixI]]
 == Example of appendix
 
-// [ADD TEXT, IF ANY].
+[ADD TEXT, IF ANY].
