@@ -1,10 +1,10 @@
 = Title (x is the closest Series related to this document: F, G, H, I, T, V, etc, ACRONYM is 4 letters reflecting the title or subject matter)
 :bureau: T
-:docnumber: Technical Report
-:series: xSTR-ACRONYM
-:published-date: dd MMM YYYY
+:docnumber: T-TUT-SAMPLE
+:series: T-TUT
+:published-date: 2025-02-01
 :status: draft
-:doctype: supplement
+:doctype: technical-report
 :keywords: [if any provided]
 :imagesdir: images
 :docfile: document.adoc
