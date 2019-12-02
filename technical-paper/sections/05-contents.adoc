@@ -1,6 +1,6 @@
 
 == Specific contents: could be introduction or something more substantive
-// [ADD TEXT.]
+_[ADD TEXT.]_
 
 .Example of a table
 [cols="2*",options="header"]
@@ -11,6 +11,7 @@
 |2 |Table header (1st row) uses style Table_head
 |3 |Other table rows use style Table_text
 |4 |Heading with table number uses style "Table_No & title"
+
 |===
 
 
