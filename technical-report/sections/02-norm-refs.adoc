@@ -4,3 +4,9 @@
 == References
 
 // [1] Add references here.
+
+* [[[ITU-T_G.1022,ITU-T G.1022]]] Recommendation ITU-T G.1022 (2016), _Buffer models for media streams on TCP transport._
+
+* [[[ITU-T_H.264,ITU-T H.264]]] Recommendation ITU-T H.264 (2012), _Advanced video coding for generic audiovisual services_.
+
+* [[[ITU-T_P.800.1,ITU-T P.800.1]]] Recommendation ITU-T P.800.1 (2006), _Mean Opinion Score (MOS) terminology_.
