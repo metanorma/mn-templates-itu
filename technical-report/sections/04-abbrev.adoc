@@ -2,4 +2,4 @@
 [[abbreviations]]
 == Abbreviations
 
-// ABC:: spell it out
+ABC:: spell it out
