@@ -2,4 +2,4 @@
 [[scope]]
 == Scope
 
-// [ADD TEXT].
+[ADD TEXT].
