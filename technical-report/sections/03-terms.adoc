@@ -1,5 +1,5 @@
-[[terms_and_definitions]]
 
+[[terms_and_definitions]]
 == Terms and definitions
 
 [[terms_defined_elsewhere]]
@@ -22,7 +22,6 @@ definition
 
 [.source]
 <<reference>>
-
 
 [[terms_defined_here]]
 === Terms defined here
