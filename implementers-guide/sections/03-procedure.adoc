@@ -1,6 +1,4 @@
 
 
 == Defect resolution procedure
-////
-Upon discovering technical defects with any components of the texts covered by this implementers' guide, please provide a written description directly to the editors of the affected Recommendation(s) with a copy to the respective Rapporteur (See contacts above on page iii).  The template for a defect report is located at the end of this guide.  Return contact information should also be supplied so a dialogue can be established to resolve the matter and an appropriate reply to the defect report can be conveyed.  This defect resolution process is open to any interested party.  Formal membership in the ITU is not required to participate in this process.
-////
+Upon discovering technical defects with any components of the texts covered by this implementers' guide, please provide a written description directly to the editors of the affected Recommendation(s) with a copy to the respective Rapporteur (See contacts above on page iii).  The template for a defect report is located at the end of this guide.  Return contact information should also be supplied so a dialogue can be established to resolve the matter and an appropriate reply to the defect report can be conveyed. This defect resolution process is open to any interested party. Formal membership in the ITU is not required to participate in this process.
