@@ -3,4 +3,4 @@
 [[annexA]]
 == Example of annex
 
-// [ADD TEXT].
+[ADD TEXT].
