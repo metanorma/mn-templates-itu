@@ -8,7 +8,8 @@
 3+a| Question(s):
 6+a| Meeting, date:
 
-2+a| Study Group:  2+a| Working Party:  4+a| Intended type of document (R-C-TD): a| TD
+3+a| Study Group:  6+a| Working Party:  
+8+a| Intended type of document (R-C-TD): a| TD
 
 9+a| Source: 
 
