@@ -1,19 +1,19 @@
 
 
 == Nomenclature
-
-////
 In addition to traditional revision marks, the following marks and symbols are used to indicate to the reader how changes to the text of a Recommendation should be applied:
 
-Begin Correction:
-Identifies the start of revision marked text based on extractions from the published Recommendations affected by the correction being described.
+[%unnumbered,cols="2,1"]
+|===
+^.^|Symbol  ^.^|Description
 
-End Correction:
-Identifies the end of revision marked text based on extractions from the published Recommendations affected by the correction being described.
+^.^|*_[Begin Correction]_* a|Identifies the start of revision marked text based on extractions from the published +
+Recommendations affected by the correction being described.
 
-"...":
-Indicates that the portion of the Recommendation between the text appearing before and after this symbol has remained unaffected by the correction being described and has been omitted for brevity.
+^.^|*_[End Correction]_* a|Identifies the end of revision marked text based on extractions from the published +
+Recommendations affected by the correction being described.
 
-SPECIAL INSTRUCTIONS:
-Indicates a set of special editing instructions to be followed.
-////
+^.^| *...* |Indicates that the portion of the Recommendation between the text appearing before and after this symbol has remained unaffected by the correction being described and has been omitted for brevity.
+
+^.^|_--- SPECIAL INSTRUCTIONS --- {instructions}_ |Indicates a set of special editing instructions to be followed.
+|===
