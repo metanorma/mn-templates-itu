@@ -1,17 +1,21 @@
-= Title (x is the closest Series related to this document: F, G, H, I, T, V, etc, ACRONYM is 4 letters reflecting the title or subject matter)
+= Technical Report
 :bureau: T
-:docnumber: T-TUT-SAMPLE
-:series: T-TUT
-:published-date: 2025-02-01
+:comment: ### Title (x is the closest Series related to this document: F, G, H, I, T, V, etc, ACRONYM is 4 letters reflecting the title or subject matter)
+:docnumber: T-TUT-ACRONYM
+:series: W: Authoring templates
+:series1: Technical Report
+:series2: Metanorma template
+:published-date: 2050-02-28
 :status: draft
 :doctype: technical-report
-:keywords: [if any provided]
+:keywords: authoring, technical-report, template, metanorma
 :imagesdir: images
 :docfile: document.adoc
 :mn-document-class: itu
 :mn-output-extensions: xml,html,doc,rxl
 :local-cache-only:
 :data-uri-image:
+
 
 include::sections/00-preface.adoc[]
 include::sections/00-summary.adoc[]
@@ -24,4 +28,3 @@ include::sections/05-content.adoc[]
 include::sections/a1-annexA.adoc[]
 
 include::sections/a1-appendix.adoc[]
-

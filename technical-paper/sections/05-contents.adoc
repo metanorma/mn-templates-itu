@@ -1,7 +1,10 @@
 
+[[specific_contents]]
 == Specific contents: could be introduction or something more substantive
+
 _[ADD TEXT.]_
 
+[[table1]]
 .Example of a table
 [cols="2*",options="header"]
 |===
@@ -13,7 +16,6 @@ _[ADD TEXT.]_
 |4 |Heading with table number uses style "Table_No & title"
 
 |===
-
 
 .Example of a figure
 image::example-fig.png[]

@@ -1,6 +1,6 @@
 
 == Abbreviations
-// This Recommendation uses the following abbreviations and acronyms:
+// This Technical Paper uses the following abbreviations and acronyms:
 
 DS:: Digital Signage
 

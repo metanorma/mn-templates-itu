@@ -1,6 +1,6 @@
 
-[appendix]
 [[annexA]]
-== Example of annex
+[appendix,obligation=normative]
+== Annex Title
 
-[ADD TEXT].
+_[ADD TEXT.]_
