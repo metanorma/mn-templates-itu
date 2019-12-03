@@ -24,14 +24,14 @@ These templates are provided in this template repository:
   (`doctype == 'technical-paper'`)
 `technical-report`::
   (`doctype == 'technical-report'`)
+`joint-itu-iso-iec`::
+  (`doctype == 'joint-itu-iso-iec'`)
 
 These ``doctype``s aren't supported yet:
 
-* `recommendation-supplement`
 * `recommendation-amendment`
 * `recommendation-corrigendum`
 * `recommendation-errata`
 * `recommendation-annex`
 * `resolution`
 * `focus-group`
-* `joint-itu-iso-iec`

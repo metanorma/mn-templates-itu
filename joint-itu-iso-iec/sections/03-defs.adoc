@@ -1,0 +1,40 @@
+
+[[definitions]]
+== Definitions
+
+For the purposes of this Recommendation | International Standard, the following definitions apply:
+
+////
+< Check in the ITU-T terms and definitions database at http://www.itu.int/go/terminology-database[www.itu.int/go/terminology-database] if the term has already been defined in another ITU-T or ITU-R Recommendation. It would be more consistent to refer to an existing definition instead of redefining the term. >
+////
+
+=== playlist
+
+Composed of a list of contents.
+
+NOTE: This data is created and provided by digital service providers.
+
+[.source]
+<<h780>>
+
+=== metadata
+
+Structured information that pertains to the identity of users, systems, services, processes, resources, information or other entities.
+
+[.source]
+<<p56>>
+
+
+=== region
+
+A partial area of the screen layout to be a content displayed.
+
+[.source]
+<<iso3166>>
+
+=== screen layout
+
+A composition of one or moreregions to be content displayed.
+
+[.source]
+<<h780>>

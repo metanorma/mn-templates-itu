@@ -1,12 +1,14 @@
-= < Recommendation | International Standard title >
+= Recommendation | International Standard title
 :bureau: T
-:docnumber:
-:series1: INTERNATIONAL STANDARD < Nbr >
-:series2: RECOMMENDATION ITU-T < Nbr >
-:published-date: dd MMM YYYY
+:docnumber: W.3100
+:series: W: Authoring templates
+:series1: Technical Report
+:series2: Metanorma template
+:common-text-docnumber: ISO/IEC 99999
+:published-date: 2050-02-28
 :status: draft
-:doctype: supplement
-:keywords: <Mandatory>
+:doctype: joint-itu-iso-iec
+:keywords: authoring, joint-itu-iso-iec, template, metanorma
 :imagesdir: images
 :docfile: document.adoc
 :mn-document-class: itu
@@ -16,7 +18,8 @@
 
 include::sections/00-preface.adoc[]
 include::sections/00-summary.adoc[]
-include::sections/00-intro.adoc[]
+//include::sections/00-intro.adoc[]
+
 include::sections/01-scope.adoc[]
 include::sections/02-norm-refs.adoc[]
 include::sections/03-defs.adoc[]
@@ -24,4 +27,4 @@ include::sections/04-abbrev.adoc[]
 include::sections/05-conventions.adoc[]
 include::sections/06-content.adoc[]
 
-
+include::sections/a1-annex.adoc[]

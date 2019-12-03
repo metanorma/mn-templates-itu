@@ -1,9 +1,0 @@
-
-[[definitions]]
-== Definitions
-
-For the purposes of this Recommendation | International Standard, the following definitions apply:
-
-////
-< Check in the ITU-T terms and definitions database at http://www.itu.int/go/terminology-database[www.itu.int/go/terminology-database] if the term has already been defined in another ITU-T or ITU-R Recommendation. It would be more consistent to refer to an existing definition instead of redefining the term. >
-////

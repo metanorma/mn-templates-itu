@@ -1,0 +1,21 @@
+
+[[content]]
+== Clause 6 of the Recommendation | International Standard
+
+_[ADD TEXT.]_
+
+[[table1]]
+.Example of a table
+[cols="2*",options="header"]
+|===
+|Number |Observation
+
+|1 |Sample table
+|2 |Table header (1st row) uses style Table_head
+|3 |Other table rows use style Table_text
+|4 |Heading with table number uses style "Table_No & title"
+
+|===
+
+.Example of a figure
+image::example-fig.png[]
