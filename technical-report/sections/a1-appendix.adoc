@@ -1,6 +1,6 @@
 
-[appendix,obligation=informative]
 [[appendixI]]
+[appendix,obligation=informative]
 == Example of appendix
 
-[ADD TEXT, IF ANY].
+_[ADD TEXT, IF ANY]_.

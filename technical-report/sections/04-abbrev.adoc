@@ -1,5 +1,9 @@
 
-[[abbreviations]]
 == Abbreviations
+// This Technical Report uses the following abbreviations and acronyms:
 
-ABC:: spell it out
+DS:: Digital Signage
+
+GML:: Geography Markup Language
+
+URI:: Uniform Resource Identifier

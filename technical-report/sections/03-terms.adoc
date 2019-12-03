@@ -1,45 +1,38 @@
 
-[[terms_and_definitions]]
 == Terms and definitions
 
-[[terms_defined_elsewhere]]
 === Terms defined elsewhere
+// This Technical Report uses the following terms defined elsewhere:
 
-This Technical Report uses the following terms defined elsewhere:
+==== playlist
 
-[[term1]]
-==== term 
+Composed of a list of contents.
 
-definition
-
-[.source]
-<<reference>>
-
-[[term2]]
-==== term
-
-definition
+NOTE: This data is created and provided by digital service providers.
 
 [.source]
-<<reference>>
+<<h780>>
 
-[[terms_defined_here]]
+==== metadata
+
+Structured information that pertains to the identity of users, systems, services, processes, resources, information or other entities.
+
+[.source]
+<<p56>>
+
 === Terms defined here
+// This Technical Report defines the following terms:
 
-This Technical Report defines the following terms:
+==== region
 
-[[term3]]
-==== term
-
-definition
+A partial area of the screen layout to be a content displayed.
 
 [.source]
-<<reference>>
+<<iso3166>>
 
-[[term4]]
-==== term
+==== screen layout
 
-definition
+A composition of one or moreregions to be content displayed.
 
 [.source]
-<<reference>>
+<<h780>>

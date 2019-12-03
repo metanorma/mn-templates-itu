@@ -1,5 +1,6 @@
 
-[[appendix1]]
+[[appendixI]]
 [appendix,obligation=informative]
-== Appendix Title
-_[ADD TEXT, IF ANY]._
+== Example of appendix
+
+_[ADD TEXT, IF ANY]_.
