@@ -17,7 +17,6 @@
 :data-uri-image:
 
 
-
 include::sections/00-summary.adoc[]
 include::sections/01-scope.adoc[]
 include::sections/02-norm-refs.adoc[]

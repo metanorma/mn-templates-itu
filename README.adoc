@@ -16,6 +16,8 @@ These templates are provided in this template repository:
 
 `recommendation`::
   (`doctype == 'recommendation'`)
+`technical-paper`::
+  (`doctype == 'technical-paper'`)
 
 `supplement`::
   (`doctype == 'supplement'`)
@@ -30,6 +32,5 @@ These ``doctype``s aren't supported yet:
 * `resolution`
 * `focus-group`
 * `implementers-guide`
-* `technical-paper`
 * `technical-report`
 * `joint-itu-iso-iec`
