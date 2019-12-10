@@ -1,0 +1,25 @@
+
+[bibliography]
+== Normative references
+
+////
+The following Recommendations and International Standards contain
+provisions which, through reference in this text, constitute provisions
+of this Recommendation | International Standard. At the time of
+publication, the editions indicated were valid. All Recommendations and
+Standards are subject to revision, and parties to agreements based on
+this Recommendation | International Standard are encouraged to
+investigate the possibility of applying the most recent edition of the
+Recommendations and Standards listed below. Members of IEC and ISO
+maintain registers of currently valid International Standards. The
+Telecommunication Standardization Bureau of the ITU maintains a list of
+currently valid ITU-T Recommendations.
+////
+
+* [[[h780,ITU-T H.780]]]
+
+* [[[p56,ITU-T P.56]]]
+
+* [[[iso3166,ISO 3166-1]]]
+
+* [[[xmlschema, W3C XMLSchema]]] W3C Recommendation (2004), _XML Schema Part 2: Datatypes Second Edition_.
