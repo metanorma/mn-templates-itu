@@ -1,5 +1,5 @@
 
-[preface]
+[.preface]
 == {blank}
 [%unnumbered]
 [cols="a,a,a,a,a,a,a,a,a",options="header"]
