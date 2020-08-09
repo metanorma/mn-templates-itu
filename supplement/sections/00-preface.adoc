@@ -1,5 +1,5 @@
 
-[preface]
+[.preface]
 == {blank}
 
 [%unnumbered]
