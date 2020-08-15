@@ -11,7 +11,7 @@
 :series2: Metanorma template
 :comment: ### Date on which the standard was updated; mandatory
 :published-date: 2050-02-28
-:comment: ### Document status/stage; mandatory. Synonym: :docstage:. Visit: https://www.metanorma.com/author/itu/authoring/ for permitted types
+:comment: ### Document status/stage; mandatory. Synonym: docstage. Visit: https://www.metanorma.com/author/itu/authoring/ for permitted types
 :status: draft
 :comment: ### Document type; mandatory. Visit: https://www.metanorma.com/author/itu/authoring/ for permitted types
 :doctype: supplement

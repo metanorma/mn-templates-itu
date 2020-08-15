@@ -2,7 +2,7 @@
 [bibliography]
 == References
 
-// Automatic reference fetching entries (auto-fetch)
+// References below are set to be fetched automatically
 // To verify the reference lookup syntax for all the supported flavors,
 // visit: https://www.metanorma.com/author/topics/building/reference-lookup/#reference-lookup-syntax
 * [[[h780,ITU-T H.780]]]

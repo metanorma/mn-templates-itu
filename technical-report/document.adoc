@@ -1,4 +1,4 @@
-= Technical Report
+= Template for ITU Technical Report
 :comment: ### Bureau that the documents belongs to; mandatory. Permitted types: T (ITU-T), R (ITU-R), D (ITU-D)
 :bureau: T
 :comment: ### Title (x is the closest Series related to this document: F, G, H, I, T, V, etc, ACRONYM is 4 letters reflecting the title or subject matter)
@@ -11,7 +11,7 @@
 :series2: Metanorma template
 :comment: ### Date on which the standard was updated; mandatory
 :published-date: 2050-02-28
-:comment: ### Document status/stage; mandatory. Synonym: :docstage:. Visit: https://www.metanorma.com/author/itu/authoring/ for permitted types
+:comment: ### Document status/stage; mandatory. Synonym: docstage. Visit: https://www.metanorma.com/author/itu/authoring/ for permitted types
 :status: draft
 :comment: ### Document type; mandatory. Visit: https://www.metanorma.com/author/itu/authoring/ for permitted types
 :doctype: technical-report
