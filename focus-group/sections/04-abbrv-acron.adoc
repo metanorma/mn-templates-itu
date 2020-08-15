@@ -1,0 +1,11 @@
+
+[[abbrv-acronyms]]
+== Abbreviations and acronyms
+
+This document uses the following abbreviations and acronyms:
+
+BaaS:: Blockchain as a Service
+DAO:: Decentralized Autonomous Organization
+API:: Application Programming Interface
+
+_< Include all the acronyms and abbreviations used in the document >_

@@ -1,0 +1,5 @@
+
+[[body]]
+== Body of the document
+
+_< Forward from this clause begins the body of the document >_

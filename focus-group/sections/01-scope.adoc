@@ -1,0 +1,6 @@
+
+// Mandatory clause
+[[scope]]
+== Scope
+
+_< Insert scope of the Recommendation >_
