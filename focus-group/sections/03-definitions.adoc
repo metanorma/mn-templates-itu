@@ -1,0 +1,32 @@
+
+[[definitions]]
+== Definitions
+
+// Definitions are typeset using inline header style
+
+=== Terms defined elsewhere
+
+This Recommendation uses the following terms defined elsewhere:
+
+[%inline-header]
+==== bitcoin
+an example of a blockchain using Proof of Work.
+
+[%inline-header]
+==== block
+individual data unit of a blockchain, composed of a collection of transactions and a block
+header.
+
+=== Terms defined in this Recommendation
+
+This Recommendation uses the following terms defined elsewhere:
+
+[%inline-header]
+==== account
+representation of an entity whose data is recorded on a distributed ledger.
+
+[%inline-header]
+==== address
+identifier for entity(ies) performing transactions or other actions in a blockchain or
+distributed ledger network.
+

@@ -1,0 +1,23 @@
+
+[abstract]
+== Summary
+_< Briefly describe the content of the document >_
+
+
+[.preface]
+== Acknowledgements
+This Technical Specification was researched and principally authored by... _< List of contributors >_
+
+
+[.preface]
+== Editors
+The following editors contributed to this document:
+
+_< Insert editors information: Name of contact, company, telephone number, fax number, email, website, etc. >_
+
+
+////
+Additional preface sections must include [.preface] attribute
+in order to get them placed in the preface area (and not in the main content).
+////
+
