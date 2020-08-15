@@ -1,0 +1,68 @@
+= Template for ITU Recommendation Amendment
+:comment: ### Bureau that the documents belongs to; mandatory. Permitted types: T (ITU-T), R (ITU-R), D (ITU-D)
+:bureau: T
+:comment: ### Internal reference number; mandatory
+:docnumber: W.3000 (fictitious)
+:comment: ### Series that the recommendation belongs to; mandatory. Use full title, for example:
+:series: W: Authoring templates
+:comment: ### First level subseries; mandatory
+:series1: First level subseries title
+:comment: ### Second level subseries; mandatory
+:series2: Second level subseries title
+:comment: ### Date on which the standard was updated; mandatory
+:published-date: 2050-02-28
+:comment: ### Document status/stage; mandatory. Synonym: docstage. Visit: https://www.metanorma.com/author/itu/authoring/ for permitted types
+:status: draft
+:comment: ### Document type; mandatory. Visit: https://www.metanorma.com/author/itu/authoring/ for permitted types
+:doctype: recommendation-amendment
+:comment: ### Comma delimited keywords; mandatory
+:keywords: authoring, recommendation, amendment, template, metanorma
+:comment: ### Directory name used as prefix for the location of image files; optional
+:imagesdir: images
+:comment: ### Name of the AsciiDoc file; mandatory
+:docfile: document.adoc
+:comment: ### Metanorma flavor; mandatory
+:mn-document-class: itu
+:comment: ### Desired output formats; mandatory
+:mn-output-extensions: xml,html,doc,rxl
+:comment: ### Enable local relaton cache for quick inclusion of prefetched references; optional. For further information, visit: https://www.metanorma.com/author/ref/document-attributes/#caches, https://www.metanorma.com/author/topics/building/reference-lookup/#lookup-result-caching
+:local-cache-only:
+:comment: ### Encode all images in HTML output as inline data-URIs; optional
+:data-uri-image:
+
+
+[abstract]
+== Summary
+_< Place a summary for the amendment >_
+
+
+[.preface]
+== Source
+_< Specify the study group that approved the amendment, procedure(s) that apply, and date of approval. >_
+
+
+[.preface]
+== Introduction
+_< Place an introduction for the amendment >_
+
+
+== Main content title
+
+_< Amendment content >_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
