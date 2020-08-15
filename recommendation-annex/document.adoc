@@ -1,0 +1,60 @@
+= Template for ITU Recommendation Annex
+:comment: ### Bureau that the documents belongs to; mandatory. Permitted types: T (ITU-T), R (ITU-R), D (ITU-D)
+:bureau: T
+:comment: ### Internal reference number; mandatory
+:docnumber: W.3000 (fictitious)
+:comment: ### Series that the recommendation belongs to; mandatory. Use full title, for example:
+:series: W: Authoring templates
+:comment: ### First level subseries; mandatory
+:series1: Recommendations
+:comment: ### Second level subseries; mandatory
+:series2: Metanorma template
+:comment: ### Date on which the standard was updated; mandatory
+:published-date: 2050-02-28
+:comment: ### Document status/stage; mandatory. Synonym: docstage. Visit: https://www.metanorma.com/author/itu/authoring/ for permitted types
+:status: draft
+:comment: ### Document type; mandatory. Visit: https://www.metanorma.com/author/itu/authoring/ for permitted types
+:doctype: recommendation-annex
+:comment: ### Change prefix letter of the annex; optional
+:annexid: B
+:comment: ### Set annex title; mandatory
+:annextitle: Template of Recommendation Annex
+:comment: ### Comma delimited keywords; mandatory
+:keywords: authoring, recommendation, template, metanorma
+:comment: ### Directory name used as prefix for the location of image files; optional
+:imagesdir: images
+:comment: ### Name of the AsciiDoc file; mandatory
+:docfile: document.adoc
+:comment: ### Metanorma flavor; mandatory
+:mn-document-class: itu
+:comment: ### Desired output formats; mandatory
+:mn-output-extensions: xml,html,doc,rxl
+:comment: ### Enable local relaton cache for quick inclusion of prefetched references; optional. For further information, visit: https://www.metanorma.com/author/ref/document-attributes/#caches, https://www.metanorma.com/author/topics/building/reference-lookup/#lookup-result-caching
+:local-cache-only:
+:comment: ### Encode all images in HTML output as inline data-URIs; optional
+:data-uri-image:
+
+
+[abstract]
+== Summary
+_< Place summary of the new annex >_
+
+[.preface]
+== Source
+_< Specify the study group that approved the amendment, procedure(s) that apply, and date of approval. >_
+
+[.preface]
+== History
+
+[%unnumbered,cols="5"]
+|===
+^.^| Edition ^.^| Recommendation ^.^| Approval ^.^| Study Group ^.^|Unique ID
+
+
+|===
+
+
+[appendix]
+== Annex title
+
+_< Place annex content >_
