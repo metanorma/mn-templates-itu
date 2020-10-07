@@ -1,58 +1,11 @@
 
 [preface]
-== {blank}
-
-[%unnumbered]
-[cols="a,a,a,a,a,a,a,a,a",options="header"]
-|===
-3+a| Question(s):
-6+a| Meeting, date:
-
-3+a| Study Group:  6+a| Working Party:
-8+a| Intended type of document (R-C-TD): a| TD
-
-9+a| Source:
-
-9+a| Title:
-
-a| Contact:
-4+a| Name
-4+a| Tel:
-
-|
-4+a| Organization
-4+a| Fax:
-|
-4+a| Country
-4+a| Email:
-
-| Contact:
-4+a| Name
-4+a| Tel:
-|
-4+a| Organization
-4+a| Fax:
-|
-4+a| Country
-4+a| Email:
-
-9+.<| Please do not change the structure of this table, just insert the necessary information.
-|===
-
-// < INSERT TEXT >
-
-
-[preface]
 [[change_log]]
 == Change Log
 
-This document contains Version X of the ITU-T Technical Report on "_Title_" approved at the ITU-T Study Group xx meeting held in Geneva, dd-dd MMMM YYYY.
+This document contains Version X of the ITU-T Technical Report on "_Title_" approved at the ITU-T Study Group {meeting} meeting held in Geneva, dd-dd MMMM YYYY.
 
 (*If there are earlier versions:* This version supersedes Version VV, which was approved at the ITU-T Study Group xx meeting held in Geneva, d MMMM YYYY)
 
-[%unnumbered]
-|===
-5+h| *Editor:* 5+a| Name 5+a| Tel:
-5+| 5+a| Company 5+a| Fax
-5+| 5+a| Country 5+a| Email:
-|===
+// Editors added automatically
+
