@@ -46,19 +46,19 @@
 :comment: ### Email of first contact
 :email: x@example.com
 :comment: ### Details of second contact
-:fullname2:
-:affiliation2:
-:address2:
-:phone2:
-:fax2:
-:email2:
+:fullname_2:
+:affiliation_2:
+:address_2:
+:phone_2:
+:fax_2:
+:email_2:
 :comment: ### Details of third contact
-:fullname3:
-:affiliation3:
-:address3:
-:phone3:
-:fax3:
-:email3:
+:fullname_3:
+:affiliation_3:
+:address_3:
+:phone_3:
+:fax_3:
+:email_3:
 :comment: ### Directory name used as prefix for the location of image files; optional
 :imagesdir: images
 :comment: ### Name of the AsciiDoc file; mandatory
