@@ -14,7 +14,7 @@
 :comment: ### Document status/stage; mandatory. Synonym: docstage. Visit: https://www.metanorma.com/author/itu/authoring/ for permitted types
 :status: draft
 :comment: ### Document type; mandatory. Visit: https://www.metanorma.com/author/itu/authoring/ for permitted types
-:doctype: supplement
+:doctype: recommendation-supplement
 :comment: ### Comma delimited keywords; mandatory
 :keywords: authoring, supplement, template, metanorma
 :comment: ### Directory name used as prefix for the location of image files; optional
