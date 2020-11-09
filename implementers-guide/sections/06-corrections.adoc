@@ -1,5 +1,5 @@
 
 
-== Technical and editorial corrections to {Recommendation #}
+== Technical and editorial corrections to {recommendationnumber}
 
 === Section ### etc.

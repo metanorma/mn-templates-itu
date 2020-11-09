@@ -1,8 +1,24 @@
 = Template for ITU Implementer's Guide
 :comment: ### Bureau that the documents belongs to; mandatory. Permitted types: T (ITU-T), R (ITU-R), D (ITU-D)
 :bureau: T
-:comment: ### Internal reference number; mandatory
-:docnumber: W.3000 (fictitious)
+:comment: ### The Question that the report belongs under, modelled as an editorial group
+:group: Question ABC
+:comment: ### The Study Group (subquestion) that the report belongs under, modelled as an editorial group
+:subgroup: Study Group XYZ
+:comment: ### The Working Group that has worked on the report
+:workgroup: WG1
+:comment: ### Name of the meeting
+:meeting: Focus Group on Vehicular Multimedia meeting
+:comment: ### Date of the meeting, entered in YYYY-MM-DD or YYYY-MM-DD/YYYY-MM-DD
+:meeting-date: 2000-01-01/2000-01-02
+:comment: ### Intended type of document (R, C, TD)
+:intended-type: TD
+:comment: ### Source
+:source: Source
+:comment: ### Internal reference number; mandatory. 
+:docnumber: G.Imp7713
+:comment: ### This is the recommendation that this document is an implementation guide for; if this is a guide for multiple recommendations, they are slash-delimited. If this is a guide for a subseries of recommendations, the recommendations as specified as .*, e.g. H.350.*
+:recommendationnumber: G.7713.1/Y.1704.1
 :comment: ### Series that the recommendation belongs to; mandatory. Use full title, for example:
 :series: W: Authoring templates
 :comment: ### First level subseries; mandatory
@@ -17,6 +33,34 @@
 :doctype: implementers-guide
 :comment: ### Comma delimited keywords; mandatory
 :keywords: authoring, implementers-guide, template, metanorma
+:comment: ### First contact (rapporteur)
+:fullname: Fred Flintstone
+:comment: ### Company/Organization of first contact
+:affiliation: Bedrock Quarry
+:comment: ### Country of first contact
+:address: Canada
+:comment: ### Phone of first contact
+:phone: 555 5555
+:comment: ### Fax of first contact
+:fax: 555 5556
+:comment: ### Email of first contact
+:email: x@example.com
+:comment: role (rapporteur); if not specified, the role is assumed to be editor
+:role: rapporteur
+:comment: ### Details of second contact
+:fullname_2:
+:affiliation_2:
+:address_2:
+:phone_2:
+:fax_2:
+:email_2:
+:comment: ### Details of third contact
+:fullname_3:
+:affiliation_3:
+:address_3:
+:phone_3:
+:fax_3:
+:email_3:
 :comment: ### Directory name used as prefix for the location of image files; optional
 :imagesdir: images
 :comment: ### Name of the AsciiDoc file; mandatory
@@ -31,6 +75,7 @@
 :data-uri-image:
 
 
+include::sections/00-preface.adoc[]
 include::sections/00-summary.adoc[]
 include::sections/01-scope.adoc[]
 include::sections/02-introduction.adoc[]
