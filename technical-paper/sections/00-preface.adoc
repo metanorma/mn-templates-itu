@@ -1,0 +1,11 @@
+
+[preface]
+[[change_log]]
+== Change Log
+
+This document contains Version X of the ITU-T Technical Report on "_Title_" approved at the ITU-T Study Group {meeting} meeting held in Geneva, dd-dd MMMM YYYY.
+
+(*If there are earlier versions:* This version supersedes Version VV, which was approved at the ITU-T Study Group xx meeting held in Geneva, d MMMM YYYY)
+
+// Editors added automatically
+
