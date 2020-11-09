@@ -5,7 +5,7 @@ This document is...
 
 This revision contains all updates submitted up to and including those at Study Group YY meeting in _{Month Year}_.
 
-This document was approved by ITU-T Study Group YY on _{Day Month Year}_ and _{obsoletes | complements}_ the earlier version of this implementers' guide approved on _{Day Month Year}_.
+This document was approved by ITU-{bureau} Study Group YY on _{Day Month Year}_ and _{obsoletes | complements}_ the earlier version of this implementers' guide approved on _{Day Month Year}_.
 
 [.preface]
 == Change log

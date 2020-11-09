@@ -2,10 +2,12 @@
 
 == Introduction
 
-This implementers' guide is a compilation of reported defects for all versions of the _{Rec # | Series}_ of Recommendations. In this edition of the guide, reported defects identified as of _{yyyy-mm}_ are given for:
+This implementers' guide is a compilation of reported defects for all versions of the {recommendationnumber} Series of Recommendations. In this edition of the guide, reported defects identified as of _{yyyy-mm}_ are given for:
 
 
-List of recommendations to which the text applies
+* List of recommendations to which the text applies
 
 
-The guide must be read in conjunction with _{Recommendation(s) # | H.xxx.x sub-series of Recommendations}_ to serve as an additional source of information for implementers. The changes, clarifications and corrections defined herein are expected to be included in future versions of the affected Recommendations.
+The guide must be read in conjunction with Recommendation(s) {recommendationnumber}
+// _{Recommendation(s) # | H.xxx.x sub-series of Recommendations}_ 
+to serve as an additional source of information for implementers. The changes, clarifications and corrections defined herein are expected to be included in future versions of the affected Recommendations.

@@ -10,4 +10,4 @@ This guide resolves defects in the following categories:
 
 In addition, the implementers' guide may include explanatory text found necessary as a result of interpretation difficulties apparent from the defect reports.
 
-This guide will not address proposed additions, deletions or modifications to the Recommendations that are not strictly related to implementation difficulties in the above categories. Proposals for new features should be made through contributions to ITU-T.
+This guide will not address proposed additions, deletions or modifications to the Recommendations that are not strictly related to implementation difficulties in the above categories. Proposals for new features should be made through contributions to ITU-{bureau}.
