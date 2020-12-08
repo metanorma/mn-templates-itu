@@ -29,10 +29,15 @@
 
 // Clauses
 include::sections/00-preface.adoc[]
+
 include::sections/01-scope.adoc[]
+
 include::sections/02-references.adoc[]
+
 include::sections/03-definitions.adoc[]
+
 include::sections/04-abbrv-acron.adoc[]
+
 include::sections/05-conventions.adoc[]
 
 // Add clause files as needed
