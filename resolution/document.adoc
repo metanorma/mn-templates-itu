@@ -1,8 +1,19 @@
-= Template for ITU Resolution
+= Rules of procedure of the ITU Telecommunication Standardization Sector footnote:[Optional footnote content (appended to subtitle).]
+:comment: ### Template for ITU Resolution
 :comment: ### Bureau that the documents belongs to; mandatory. Permitted types: T (ITU-T), R (ITU-R), D (ITU-D)
 :bureau: T
 :comment: ### Internal reference number; mandatory
-:docnumber: W.3000 (fictitious)
+:docnumber: 1
+:comment: ### Name of meeting that generated this document
+:meeting: WORLD TELECOMMUNICATION STANDARDIZATION ASSEMBLY
+:comment: ### Place of meeting that generated this document
+:meeting-place: Hammamet
+:comment: ### Date of meeting that generated this document
+:meeting-date: 2016-10-25/2016-11-03
+:comment: ### Acronym of meeting that generated this document
+:meeting-acronym: WTSA-16
+:comment: ### Document edition. See comment 1.
+:edition: Hammamet, 2016
 :comment: ### Series that the recommendation belongs to; mandatory. Use full title, for example:
 :series: W: Authoring templates
 :comment: ### First level subseries; mandatory
@@ -12,7 +23,7 @@
 :comment: ### Date on which the standard was updated; mandatory
 :published-date: 2050-02-28
 :comment: ### Document status/stage; mandatory. Synonym: docstage. Visit: https://www.metanorma.com/author/itu/authoring/ for permitted types
-:status: draft
+:status: in-force
 :comment: ### Document type; mandatory. Visit: https://www.metanorma.com/author/itu/authoring/ for permitted types
 :doctype: resolution
 :comment: ### Comma delimited keywords; mandatory
@@ -30,8 +41,17 @@
 :comment: ### Encode all images in HTML output as inline data-URIs; optional
 :data-uri-image:
 
+////
+Comment 1 -- :edition:
 
-== Main title
+This attribute is used to indicate whether the current document is a revision of an earlier document; if it is, it should have a value other than "1". (Resolutions are identified through place and year, regardless of whether they constitute revisions
+or not.)
+////
+
+
+// Prefatory resolution content
+[%unnumbered]
+== {blank}
 
 _considering_
 +
