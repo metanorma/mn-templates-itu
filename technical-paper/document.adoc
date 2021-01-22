@@ -72,11 +72,17 @@
 
 
 include::sections/00-preface.adoc[]
+
 include::sections/00-summary.adoc[]
+
 include::sections/01-scope.adoc[]
+
 include::sections/02-norm-refs.adoc[]
+
 include::sections/03-terms.adoc[]
+
 include::sections/04-abbrev.adoc[]
+
 include::sections/05-contents.adoc[]
 
 include::sections/a1-annex.adoc[]
