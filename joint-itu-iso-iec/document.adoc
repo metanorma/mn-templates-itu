@@ -21,8 +21,6 @@
 :keywords: authoring, joint-itu-iso-iec, template, metanorma
 :comment: ### Directory name used as prefix for the location of image files; optional
 :imagesdir: images
-:comment: ### Name of the AsciiDoc file; mandatory
-:docfile: document.adoc
 :comment: ### Metanorma flavor; mandatory
 :mn-document-class: itu
 :comment: ### Desired output formats; mandatory
