@@ -1,0 +1,20 @@
+---
+metanorma:
+  source:
+    files:
+      - focus-group/document.adoc
+      - implementers-guide/document.adoc
+      - joint-itu-iso-iec/document.adoc
+      - recommendation/document.adoc
+      - recommendation-amendment/document.adoc
+      - recommendation-annex/document.adoc
+      - recommendation-corrigendum/document.adoc
+      - recommendation-errata/document.adoc
+      - resolution/document.adoc
+      - supplement/document.adoc
+      - technical-paper/document.adoc
+      - technical-report/document.adoc
+
+  collection:
+    organization: "ITU: International Telecommunication Union"
+    name: "ITU deliverable templates in Metanorma AsciiDoc"
