@@ -1,0 +1,18 @@
+{
+	"type": [ "itu" ],
+	"doctype": [
+		"focus-group",
+		"implementers-guide",
+		"joint-itu-iso-iec",
+		"recommendation",
+		"recommendation-amendment",
+		"recommendation-annex",
+		"recommendation-corrigendum",
+		"recommendation-errata",
+		"resolution",
+		"supplement",
+		"technical-paper",
+		"technical-report"
+	],
+	"experimental": [ false ]
+}
