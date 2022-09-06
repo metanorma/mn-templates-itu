@@ -1,0 +1,23 @@
+/__w/mn-templates-itu/mn-templates-itu/site/documents/recommendation-corrigendum/document.err errors
+
+
+== Metanorma XML Style Warning
+
+(XML Line 000025): Table should have title
+	<table id="_c427d6a2-b71e-cebb-7794-4b5158fd9bf8" unnumbered="true"><thead><tr><th valign="middle" align="center">Edition</th>
+	<th valign="middle" align="center">Recommendation</th>
+	<th valign="middle" align="center">Approval</th>
+	<th valign="middle" align="center">Study group</th>
+	<th valign="middle" align="center">Unique id</th>
+
+
+== Style
+
+(): No Keywords have been provided
+(): ITU-T W.3000 (fictitious) does not match ITU document identifier conventions
+
+
+== Metanorma XML Syntax
+
+(XML Line 000067:9): element "table" incomplete; missing required element "tbody"
+(XML Line 000078:16): element "itu-standard" incomplete; missing required element "bibliography"

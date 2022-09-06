@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itu-standard xmlns="https://www.metanorma.org/ns/itu" type="semantic" version="2.1.7">
+<bibdata type="standard">
+<title language="en" format="text/plain" type="main">Template for ITU Recommendation Annex</title>
+
+<title language="en" format="text/plain" type="annex">Template of Recommendation Annex</title>
+
+
+
+<docidentifier type="ITU">ITU-T W.3000 (fictitious)</docidentifier><docidentifier type="ITU-lang">ITU-T W.3000 (fictitious)-E</docidentifier><docnumber>W.3000 (fictitious)</docnumber><date type="published"><on>2050-02-28</on></date><contributor><role type="author"/><organization>
+<name>International Telecommunication Union</name>
+</organization></contributor><contributor><role type="publisher"/><organization>
+<name>International Telecommunication Union</name>
+</organization></contributor><language>en</language><script>Latn</script><abstract><p><em>&lt; Place summary of the new annex &gt;</em></p>
+</abstract><status><stage>draft</stage></status><copyright><from>2022</from><owner><organization>
+<name>International Telecommunication Union</name>
+</organization></owner></copyright><series type="main">
+<title>W: Authoring templates</title>
+</series><series type="secondary">
+<title>Recommendations</title>
+</series><series type="tertiary">
+<title>Metanorma template</title>
+</series><keyword>Authoring</keyword><keyword>metanorma</keyword><keyword>recommendation</keyword><keyword>template</keyword><ext><doctype>recommendation-annex</doctype><editorialgroup><bureau>T</bureau></editorialgroup><ip-notice-received>false</ip-notice-received><structuredidentifier><bureau>T</bureau><docnumber>W.3000 (fictitious)</docnumber><annexid>B</annexid></structuredidentifier></ext></bibdata>
+<boilerplate>
+  
+  <copyright-statement>
+    <clause>
+      <p id="_0b30f98f-3c13-ea40-fbb6-0a502d527b1c">© ITU 2022</p>
+<p id="_d0cc06a4-da8a-928d-1a6f-a56d62dc6a76">All rights reserved. No part of this publication may be reproduced, by any means whatsoever, without the prior written permission of ITU.</p>
+    </clause>
+  </copyright-statement>
+  
+  <license-statement>
+    <clause>
+      <title>INTELLECTUAL PROPERTY RIGHTS</title>
+      <p id="_f69eb2d8-e3f3-4319-2dce-41ae230d37ae">ITU draws attention to the possibility that the practice or implementation of this Recommendation may involve the use of a claimed Intellectual Property Right. ITU takes no position concerning the evidence, validity or applicability of claimed Intellectual Property Rights, whether asserted by ITU members or others outside of the Recommendation development process.</p>
+<p id="_4dc9466a-c0af-c98e-5b3a-676dc4b659ed">As of the date of approval of this Recommendation, ITU had  received notice of intellectual property, protected by patents, which may be required to implement this Recommendation. However, implementers are cautioned that this may not represent the latest information and are therefore strongly urged to consult the TSB patent database at <link target="http://www.itu.int/ITU-T/ipr/"/>.
+</p>
+</clause>
+</license-statement>
+
+  <legal-statement>
+    <clause>
+      <title>FOREWORD</title>
+<p id="_f4854233-2d6a-cf7b-e65a-329b5f5ac2cd">The International Telecommunication Union (ITU) is the United Nations specialized agency in the field of telecommunications , information and communication technologies (ICTs). The ITU Telecommunication Standardization Sector (ITU-T) is a permanent organ of ITU. ITU-T is responsible for studying technical, operating and tariff questions and issuing Recommendations on them with a view to standardizing telecommunications on a worldwide basis.</p>
+<p id="_ac1f1102-d1d8-0b70-0a06-2c50412892c7">The World Telecommunication Standardization Assembly (WTSA), which meets every four years, establishes the topics for study by the ITU T study groups which, in turn, produce Recommendations on these topics.</p>
+<p id="_7f2e383f-443c-f253-0024-a68c9dcf001a">The approval of ITU-T Recommendations is covered by the procedure laid down in WTSA Resolution 1 .</p>
+<p id="_f5700abd-cb53-4bd6-2685-6e94ca2ed603">In some areas of information technology which fall within ITU-T's purview, the necessary standards are prepared on a collaborative basis with ISO and IEC.</p>
+
+
+<clause>
+<title>NOTE</title>
+<p id="_b0e4a68a-aed7-f212-349c-c161827057a4">In this Recommendation, the expression "Administration" is used for conciseness to indicate both a telecommunication administration and a recognized operating agency .</p>
+<p id="_bcee48e9-82ca-45df-fab8-37d7b22405bc">Compliance with this Recommendation is voluntary. However, the Recommendation may contain certain mandatory provisions (to ensure, e.g., interoperability or applicability) and compliance with the Recommendation is achieved when all of these mandatory provisions are met. The words "shall" or some other obligatory language such as "must" and the negative equivalents are used to express requirements. The use of such words does not suggest that compliance with the Recommendation is required of any party .</p>
+</clause>
+
+    </clause>
+
+    
+    <clause id="draft-warning">
+      <title>CAUTION! PREPUBLISHED RECOMMENDATION</title>
+      <p id="_e5ecbb28-1a0d-7968-0888-ca94b3f29238">This
+        prepublication is an unedited version of a recently approved Recommendation.
+  It will be replaced by the published version after editing. Therefore,
+  there will be differences between this prepublication and the published
+  version.</p>
+    </clause>
+    
+  </legal-statement>
+  
+</boilerplate>
+
+
+
+<preface><abstract id="_summary"><title>Abstract</title><p id="_253a205f-a8e1-b395-2a17-375715437d2e"><em>&lt; Place summary of the new annex &gt;</em></p>
+</abstract><clause id="_source" type="source" inline-header="false" obligation="informative">
+<title>Source</title>
+<p id="_699402a1-5201-15e3-e4d1-d462fcaeb867"><em>&lt; Specify the study group that approved the amendment, procedure(s) that apply, and date of approval. &gt;</em></p>
+</clause><clause id="_history" type="history" inline-header="false" obligation="informative">
+<title>History</title>
+<table id="_93cede69-6d5f-3c48-5aa5-b88fea7db8d3" unnumbered="true"><thead><tr><th valign="middle" align="center">Edition</th>
+<th valign="middle" align="center">Recommendation</th>
+<th valign="middle" align="center">Approval</th>
+<th valign="middle" align="center">Study group</th>
+<th valign="middle" align="center">Unique id</th>
+</tr></thead>
+</table>
+</clause></preface><sections>
+
+
+
+
+
+</sections><annex id="_annex_title" inline-header="false" obligation="normative">
+<title>Annex title</title>
+<p id="_455aef29-d1fe-ca4e-ee7b-f6d29d159fc0"><em>&lt; Place annex content &gt;</em></p>
+</annex>
+</itu-standard>

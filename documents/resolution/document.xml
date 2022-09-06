@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itu-standard xmlns="https://www.metanorma.org/ns/itu" type="semantic" version="2.1.7">
+<bibdata type="standard">
+<title language="en" format="text/plain" type="main">Rules of procedure of the ITU Telecommunication Standardization Sector</title>
+
+
+
+<docidentifier type="ITU">ITU-T 1</docidentifier><docidentifier type="ITU-lang">ITU-T 1-E</docidentifier><docnumber>1</docnumber><date type="published"><on>2050-02-28</on></date><contributor><role type="author"/><organization>
+<name>International Telecommunication Union</name>
+</organization></contributor><contributor><role type="publisher"/><organization>
+<name>International Telecommunication Union</name>
+</organization></contributor><edition>Hammamet, 2016</edition><note type="title-footnote"><p>Optional footnote content (appended to subtitle).</p>
+</note><language>en</language><script>Latn</script><status><stage>in-force</stage></status><copyright><from>2022</from><owner><organization>
+<name>International Telecommunication Union</name>
+</organization></owner></copyright><series type="main">
+<title>W: Authoring templates</title>
+</series><series type="secondary">
+<title>Recommendations</title>
+</series><series type="tertiary">
+<title>Metanorma template</title>
+</series><keyword>Authoring</keyword><keyword>metanorma</keyword><keyword>recommendation</keyword><keyword>template</keyword><ext><doctype>resolution</doctype><editorialgroup><bureau>T</bureau></editorialgroup><ip-notice-received>false</ip-notice-received><meeting acronym="WTSA-16">WORLD TELECOMMUNICATION STANDARDIZATION ASSEMBLY</meeting><meeting-place>Hammamet</meeting-place><meeting-date><from>2016-10-25</from><to>2016-11-03</to></meeting-date><structuredidentifier><bureau>T</bureau><docnumber>1</docnumber></structuredidentifier></ext></bibdata>
+<boilerplate>
+  
+  <copyright-statement>
+    <clause>
+      <p id="_0b30f98f-3c13-ea40-fbb6-0a502d527b1c">© ITU 2022</p>
+<p id="_d0cc06a4-da8a-928d-1a6f-a56d62dc6a76">All rights reserved. No part of this publication may be reproduced, by any means whatsoever, without the prior written permission of ITU.</p>
+    </clause>
+  </copyright-statement>
+  
+  <legal-statement>
+    <clause>
+      <title>FOREWORD</title>
+<p id="_e39b916a-1911-02cf-fce1-6e2bbef3a82b">The International Telecommunication Union (ITU) is the United Nations specialized agency in the field of telecommunications , information and communication technologies (ICTs). The ITU Telecommunication Standardization Sector (ITU-T) is a permanent organ of ITU. ITU-T is responsible for studying technical, operating and tariff questions and issuing Recommendations on them with a view to standardizing telecommunications on a worldwide basis.</p>
+<p id="_06f59af6-f0ab-5af2-fd46-4e11f29b088c">The World Telecommunication Standardization Assembly (WTSA), which meets every four years, establishes the topics for study by the ITU T study groups which, in turn, produce Recommendations on these topics.</p>
+<p id="_6def1521-1461-842d-2d81-e26f18ab0133">The approval of ITU-T Recommendations is covered by the procedure laid down in WTSA Resolution 1 .</p>
+<p id="_0af791e0-9f42-316a-0bcf-cc393f69fe2b">In some areas of information technology which fall within ITU-T's purview, the necessary standards are prepared on a collaborative basis with ISO and IEC.</p>
+
+
+    </clause>
+
+    
+  </legal-statement>
+  
+</boilerplate>
+
+
+
+<sections><clause id="_af650bea-f9c3-577d-f73f-8cd64f6d8919" unnumbered="true" inline-header="false" obligation="normative">
+<p id="_df7ca9f2-eeb6-711b-9af4-5c46ef5ec398"><em>considering</em></p>
+
+<p id="_3284e739-3050-9c6b-eb78-4cd71473d179">+</p>
+
+<ol id="_045c9c85-d734-ee8b-3d3b-30ac071508e9"><li><p id="_21dec277-a537-e46d-c9d7-c119e46e9433"><em>&lt; consideration 1 &gt;</em></p>
+</li>
+<li><p id="_87020e73-745a-f52e-f266-b9ad88594ffc"><em>&lt; consideration 2 &gt;</em></p>
+</li>
+<li><p id="_4fddcf23-ecb9-8762-40ca-74fb7397132b"><em>&lt; consideration 3 &gt;</em></p>
+</li>
+<li><p id="_d61f9b9f-9542-2250-a657-3f10aae710ed"><em>&lt; consideration n &gt;</em></p>
+</li>
+</ol>
+
+<p id="_fcd6c976-7a52-7ed1-cc5d-b04659012c10"><em>noting</em></p>
+
+<p id="_972dd23a-d5a8-cbff-da3b-7ac83963df2d">+</p>
+
+<ol id="_46e4cb0f-0e94-13e1-e921-572a5ae3f2b3"><li><p id="_c6beb262-ec3d-941c-6b74-75ea9bc99a1e"><em>&lt; point 1 &gt;</em></p>
+</li>
+<li><p id="_c9ab0c99-da17-4cff-ca36-dbb58dcdef9e"><em>&lt; point 2 &gt;</em></p>
+</li>
+<li><p id="_13ae27ce-bcc3-6722-59c7-4ec618078422"><em>&lt; point n &gt;</em></p>
+</li>
+</ol>
+
+<p id="_be3a7299-481a-2d9c-8d65-3ad16c0f266c"><em>resolves</em></p>
+
+<p id="_0dfef10a-aa85-a8a8-03ab-8a4caf5c6b2a">+</p>
+
+<ol id="_d76f489c-a18e-a6fe-94dd-82b3833490a1"><li><p id="_f1ff6d2e-1e69-3284-115c-40ea1ccc83ff"><em>&lt; point 1 &gt;</em></p>
+</li>
+<li><p id="_1f4c5d93-eb1d-4241-5140-01bcb7db6124"><em>&lt; point 2 &gt;</em></p>
+</li>
+<li><p id="_11640f88-2e79-bac0-db91-51fafd658abe"><em>&lt; point n &gt;</em></p>
+</li>
+</ol>
+</clause>
+
+<clause id="_section_1" inline-header="false" obligation="normative">
+<title>SECTION 1</title>
+<p id="_8abc35c4-6212-d0fc-1158-33623733d1f7"><strong>Section 1 title</strong></p>
+
+<clause id="blank-section-1" inline-header="true" obligation="normative">
+<p id="_ef425ea2-446c-182c-9e4a-bef4df6b6f55">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</clause>
+
+<clause id="blank-section-2" inline-header="true" obligation="normative">
+<p id="_bc33c4d8-d617-03ca-b00f-140e66ca626b">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</clause>
+
+<clause id="blank-section-n" inline-header="true" obligation="normative">
+<p id="_1568ec23-a7b3-e5d5-7bcf-f0864636ff64">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</clause>
+</clause>
+
+<clause id="_section_n" inline-header="false" obligation="normative">
+<title>SECTION n</title>
+<p id="_29fde79e-df7b-f500-5c49-6c043736fbee"><strong>Section n title</strong></p>
+
+<clause id="_subsection_title_if_apply" inline-header="false" obligation="normative">
+<title>Subsection title (if apply)</title>
+<clause id="blank-subsection-1" inline-header="true" obligation="normative">
+<p id="_a3b39405-6e3e-6d3e-c137-3b482dab9140">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</clause>
+
+<clause id="blank-subsection-2" inline-header="true" obligation="normative">
+<p id="_e32c661b-7fc7-9f4d-d4a2-8c12f697af26">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</clause>
+
+<clause id="blank-subsection-n" inline-header="true" obligation="normative">
+<p id="_9d4822bc-6619-2a0f-7815-607286f5de8d">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</clause>
+</clause>
+</clause>
+
+
+
+
+</sections><annex id="_appendix_1_title_if_apply" inline-header="false" obligation="normative">
+<title>Appendix 1 title (if apply)</title>
+<p id="_46c752be-8a64-c58e-b2ba-b99b8340a336"><em>&lt; Appendix 1 content &gt;</em></p>
+</annex><annex id="_appendix_2_title_if_apply" inline-header="false" obligation="normative">
+<title>Appendix 2 title (if apply)</title>
+<p id="_de5b73f6-5a29-e9fa-f069-e36490c07738"><em>&lt; Appendix 2 content &gt;</em></p>
+</annex>
+</itu-standard>

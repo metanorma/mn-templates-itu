@@ -1,0 +1,35 @@
+<bibdata type="standard">
+<title language="en" format="text/plain" type="main">Template for ITU Technical Paper</title>
+
+
+
+<docidentifier type="ITU">ITU-T xSTP-ACRONYM</docidentifier><docidentifier type="ITU-lang">ITU-T xSTP-ACRONYM-E</docidentifier><docnumber>xSTP-ACRONYM</docnumber><date type="published"><on>2050-02-28</on></date><contributor><role type="author"/><organization>
+<name>International Telecommunication Union</name>
+</organization></contributor><contributor><role type="author"/><person>
+<name><completename>Fred Flintstone</completename></name>
+<affiliation><organization>
+<name>Bedrock Quarry</name>
+<address><formattedAddress>Canada</formattedAddress></address></organization></affiliation><phone>555 5555</phone><phone type="fax">555 5556</phone><email>x@example.com</email></person></contributor><contributor><role type="author"/><person>
+<name><completename/></name>
+<affiliation><organization>
+<address><formattedAddress/></address></organization></affiliation></person></contributor><contributor><role type="author"/><person>
+<name><completename/></name>
+<affiliation><organization>
+<address><formattedAddress/></address></organization></affiliation></person></contributor><contributor><role type="publisher"/><organization>
+<name>International Telecommunication Union</name>
+</organization></contributor><language>en</language><script>Latn</script><abstract><p>This technical paper…​ (complete)</p>
+</abstract><status><stage>draft</stage></status><copyright><from>2022</from><owner><organization>
+<name>International Telecommunication Union</name>
+</organization></owner></copyright><series type="main">
+<title>W: Authoring templates</title>
+</series><series type="secondary">
+<title>Technical Paper</title>
+</series><series type="tertiary">
+<title>Metanorma template</title>
+</series><keyword>Authoring</keyword><keyword>metanorma</keyword><keyword>technical-paper</keyword><keyword>template</keyword><ext><doctype>technical-paper</doctype><editorialgroup><bureau>T</bureau><group>
+<name>Question ABC</name>
+</group><subgroup>
+<name>Study Group XYZ</name>
+</subgroup><workgroup>
+<name>WG1</name>
+</workgroup></editorialgroup><ip-notice-received>false</ip-notice-received><meeting>Focus Group on Vehicular Multimedia meeting</meeting><meeting-date><from>2000-01-01</from><to>2000-01-02</to></meeting-date><intended-type>TD</intended-type><source>Source</source><structuredidentifier><bureau>T</bureau><docnumber>xSTP-ACRONYM</docnumber></structuredidentifier></ext></bibdata>

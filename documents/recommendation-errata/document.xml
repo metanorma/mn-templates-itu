@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itu-standard xmlns="https://www.metanorma.org/ns/itu" type="semantic" version="2.1.7">
+<bibdata type="standard">
+<title language="en" format="text/plain" type="main">Template for ITU Errata to Recommendation</title>
+
+
+
+<docidentifier type="ITU">ITU-T W.3000 (fictitious)</docidentifier><docidentifier type="ITU-lang">ITU-T W.3000 (fictitious)-E</docidentifier><docnumber>W.3000 (fictitious)</docnumber><date type="published"><on>2050-02-28</on></date><contributor><role type="author"/><organization>
+<name>International Telecommunication Union</name>
+</organization></contributor><contributor><role type="publisher"/><organization>
+<name>International Telecommunication Union</name>
+</organization></contributor><language>en</language><script>Latn</script><status><stage>draft</stage></status><copyright><from>2022</from><owner><organization>
+<name>International Telecommunication Union</name>
+</organization></owner></copyright><series type="main">
+<title>W: Authoring templates</title>
+</series><series type="secondary">
+<title>Errata to Recommendation</title>
+</series><series type="tertiary">
+<title>Metanorma template</title>
+</series><keyword>Authoring</keyword><keyword>errata</keyword><keyword>metanorma</keyword><keyword>recommendation</keyword><keyword>template</keyword><ext><doctype>recommendation-errata</doctype><editorialgroup><bureau>T</bureau></editorialgroup><ip-notice-received>false</ip-notice-received><structuredidentifier><bureau>T</bureau><docnumber>W.3000 (fictitious)</docnumber></structuredidentifier></ext></bibdata>
+<boilerplate>
+  
+  <copyright-statement>
+    <clause>
+      <p id="_0b30f98f-3c13-ea40-fbb6-0a502d527b1c">© ITU 2022</p>
+<p id="_d0cc06a4-da8a-928d-1a6f-a56d62dc6a76">All rights reserved. No part of this publication may be reproduced, by any means whatsoever, without the prior written permission of ITU.</p>
+    </clause>
+  </copyright-statement>
+  
+  <legal-statement>
+    <clause>
+      <title>FOREWORD</title>
+<p id="_f4854233-2d6a-cf7b-e65a-329b5f5ac2cd">The International Telecommunication Union (ITU) is the United Nations specialized agency in the field of telecommunications , information and communication technologies (ICTs). The ITU Telecommunication Standardization Sector (ITU-T) is a permanent organ of ITU. ITU-T is responsible for studying technical, operating and tariff questions and issuing Recommendations on them with a view to standardizing telecommunications on a worldwide basis.</p>
+<p id="_ac1f1102-d1d8-0b70-0a06-2c50412892c7">The World Telecommunication Standardization Assembly (WTSA), which meets every four years, establishes the topics for study by the ITU T study groups which, in turn, produce Recommendations on these topics.</p>
+<p id="_7f2e383f-443c-f253-0024-a68c9dcf001a">The approval of ITU-T Recommendations is covered by the procedure laid down in WTSA Resolution 1 .</p>
+<p id="_f5700abd-cb53-4bd6-2685-6e94ca2ed603">In some areas of information technology which fall within ITU-T's purview, the necessary standards are prepared on a collaborative basis with ISO and IEC.</p>
+
+
+    </clause>
+
+    
+    <clause id="draft-warning">
+      <title>CAUTION! PREPUBLISHED RECOMMENDATION ERRATA</title>
+      <p id="_304975a6-ee78-f68b-492e-84debcc1294f">This
+        prepublication is an unedited version of a recently approved Recommendation Errata.
+  It will be replaced by the published version after editing. Therefore,
+  there will be differences between this prepublication and the published
+  version.</p>
+    </clause>
+    
+  </legal-statement>
+  
+</boilerplate>
+
+
+
+<sections><clause id="_errata_to_section_number" inline-header="false" obligation="normative">
+<title>Errata to &lt; section number &gt;</title>
+<p id="_85e4f0cb-2945-9bea-fa3a-42cf64ac10e1"><em>&lt; Indicate a list of pages and section numbers where corrections must be applied along with corresponding description &gt;</em></p>
+
+<p id="_3e4ce849-1267-a609-85e2-4f50316c0c45"><em>&lt; Add as many clauses as needed &gt;</em></p>
+</clause>
+</sections>
+</itu-standard>

@@ -1,0 +1,19 @@
+<bibdata type="standard">
+<title language="en" format="text/plain" type="main">Recommendation | International Standard title</title>
+
+
+
+<docidentifier type="ITU">ITU-T W.3100</docidentifier><docidentifier type="ITU-lang">ITU-T W.3100-E</docidentifier><docnumber>W.3100</docnumber><date type="published"><on>2050-02-28</on></date><contributor><role type="author"/><organization>
+<name>International Telecommunication Union</name>
+</organization></contributor><contributor><role type="publisher"/><organization>
+<name>International Telecommunication Union</name>
+</organization></contributor><language>en</language><script>Latn</script><abstract><p>This Recommendation | International Standard…​ (complete)</p>
+</abstract><status><stage>draft</stage></status><copyright><from>2022</from><owner><organization>
+<name>International Telecommunication Union</name>
+</organization></owner></copyright><series type="main">
+<title>W: Authoring templates</title>
+</series><series type="secondary">
+<title>Technical Report</title>
+</series><series type="tertiary">
+<title>Metanorma template</title>
+</series><keyword>Authoring</keyword><keyword>joint-itu-iso-iec</keyword><keyword>metanorma</keyword><keyword>template</keyword><ext><doctype>joint-itu-iso-iec</doctype><editorialgroup><bureau>T</bureau></editorialgroup><ip-notice-received>false</ip-notice-received><structuredidentifier><bureau>T</bureau><docnumber>W.3100</docnumber></structuredidentifier></ext></bibdata>

@@ -1,0 +1,15 @@
+<bibdata type="standard">
+<title language="en" format="text/plain" type="main">Template for ITU Focus Group</title>
+
+
+
+<docidentifier type="ITU">ITU-T FGABC-xxx</docidentifier><docidentifier type="ITU-lang">ITU-T FGABC-xxx-E</docidentifier><docnumber>FGABC-xxx</docnumber><date type="published"><on>2050-02-28</on></date><contributor><role type="author"/><organization>
+<name>International Telecommunication Union</name>
+</organization></contributor><contributor><role type="publisher"/><organization>
+<name>International Telecommunication Union</name>
+</organization></contributor><language>en</language><script>Latn</script><abstract><p><em>&lt; Briefly describe the content of the document &gt;</em></p>
+</abstract><status><stage>draft</stage></status><copyright><from>2022</from><owner><organization>
+<name>International Telecommunication Union</name>
+</organization></owner></copyright><series type="main">
+<title>W: Authoring templates</title>
+</series><keyword>Authoring</keyword><keyword>focus-group</keyword><keyword>metanorma</keyword><keyword>template</keyword><ext><doctype>focus-group</doctype><editorialgroup><bureau>T</bureau></editorialgroup><ip-notice-received>false</ip-notice-received><structuredidentifier><bureau>T</bureau><docnumber>FGABC-xxx</docnumber></structuredidentifier></ext></bibdata>

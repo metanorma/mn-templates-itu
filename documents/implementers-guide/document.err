@@ -1,0 +1,29 @@
+/__w/mn-templates-itu/mn-templates-itu/site/documents/implementers-guide/document.err errors
+
+
+== Metanorma XML Style Warning
+
+(XML Line 000200): Table should have title
+	<table id="_4bef4465-efea-ed21-fcc8-4e7058ff34a5" unnumbered="true"><colgroup><col width="66.6666%"/><col width="33.3334%"/></colgroup><thead><tr><th valign="middle" align="center">Symbol</th>
+	<th valign="middle" align="center">Description</th>
+	</tr></thead>
+	<tbody><tr><td valign="middle" align="center"><strong><em>[Begin Correction]</em></strong></td>
+	<td valign="top" align="left"><p id="_b9f2c218-42be-2a9f-2f39-cacf13b32584">Identifies the start of revision marked text based on extractions from the published<br/>
+
+
+== Style
+
+(): No Keywords have been provided
+(): ITU-T G.Imp7713 does not match ITU document identifier conventions
+
+
+== Document Attributes
+
+(): Title includes series name Implementer's Guide
+
+
+== Metanorma XML Syntax
+
+(XML Line 000010:74): text not allowed here; expected the element end-tag or element "description"
+(XML Line 000017:10): element "address" not allowed yet; missing required element "name"
+(XML Line 000020:10): element "address" not allowed yet; missing required element "name"

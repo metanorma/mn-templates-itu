@@ -1,0 +1,19 @@
+/__w/mn-templates-itu/mn-templates-itu/site/documents/recommendation-errata/document.err errors
+
+
+== Style
+
+(): No Summary has been provided
+(): No Keywords have been provided
+(): ITU-T W.3000 (fictitious) does not match ITU document identifier conventions
+
+
+== Document Attributes
+
+(): Title includes series name Errata to Recommendation
+
+
+== Metanorma XML Syntax
+
+(XML Line 000057:11): element "sections" not allowed yet; missing required element "preface"
+(XML Line 000064:16): element "itu-standard" incomplete; missing required element "bibliography"

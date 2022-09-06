@@ -1,0 +1,30 @@
+/__w/mn-templates-itu/mn-templates-itu/site/documents/recommendation-annex/document.err errors
+
+
+== Metanorma XML Style Warning
+
+(XML Line 000020): Hanging paragraph in clause
+	<clause>
+	      <title>FOREWORD</title>
+	<p id="_f4854233-2d6a-cf7b-e65a-329b5f5ac2cd">The International Telecommunication Union (ITU) is the United Nations specialized agency in the field of telecommunications , information and communication technologies (ICTs). The ITU Telecommunication Standardization Sector (ITU-T) is a permanent organ of ITU. ITU-T is responsible for studying technical, operating and tariff questions and issuing Recommendations on them with a view to standardizing telecommunications on a worldwide basis.</p>
+	<p id="_ac1f1102-d1d8-0b70-0a06-2c50412892c7">The World Telecommunication Standardization Assembly (WTSA), which meets every four years, establishes the topics for study by the ITU T study groups which, in turn, produce Recommendations on these topics.</p>
+	<p id="_7f2e383f-443c-f253-0024-a68c9dcf001a">The approval of ITU-T Recommendations is covered by the procedure laid down in WTSA Resolution 1 .</p>
+(XML Line 000032): Table should have title
+	<table id="_93cede69-6d5f-3c48-5aa5-b88fea7db8d3" unnumbered="true"><thead><tr><th valign="middle" align="center">Edition</th>
+	<th valign="middle" align="center">Recommendation</th>
+	<th valign="middle" align="center">Approval</th>
+	<th valign="middle" align="center">Study group</th>
+	<th valign="middle" align="center">Unique id</th>
+
+
+== Style
+
+(): No Keywords have been provided
+(): ITU-T W.3000 (fictitious) does not match ITU document identifier conventions
+
+
+== Metanorma XML Syntax
+
+(XML Line 000087:9): element "table" incomplete; missing required element "tbody"
+(XML Line 000094:12): element "sections" incomplete; expected element "clause", "definitions", "floating-title" or "terms"
+(XML Line 000098:16): element "itu-standard" incomplete; missing required element "bibliography"

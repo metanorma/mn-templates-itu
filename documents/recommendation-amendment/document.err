@@ -1,0 +1,12 @@
+/__w/mn-templates-itu/mn-templates-itu/site/documents/recommendation-amendment/document.err errors
+
+
+== Style
+
+(): No Keywords have been provided
+(): ITU-T W.3000 (fictitious) does not match ITU document identifier conventions
+
+
+== Metanorma XML Syntax
+
+(XML Line 000074:16): element "itu-standard" incomplete; missing required element "bibliography"

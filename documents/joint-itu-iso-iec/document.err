@@ -1,0 +1,17 @@
+/__w/mn-templates-itu/mn-templates-itu/site/documents/joint-itu-iso-iec/document.err errors
+
+
+== Metanorma XML Style Warning
+
+(XML Line 000022): Table should have title
+	<table id="_58571615-37a7-1326-2526-2cc4ffebda47" unnumbered="true"><thead><tr><th colspan="3" valign="top" align="left">Question(s):</th>
+	<th colspan="6" valign="top" align="left">Meeting, date:</th>
+	</tr></thead>
+	<tbody><tr><td colspan="2" valign="top" align="left"><p id="_05a2f23e-be6d-9a62-4bfe-b045bff8d34e">Study Group:</p>
+	</td>
+
+
+== Style
+
+(): No Keywords have been provided
+(): ITU-T W.3100 does not match ITU document identifier conventions

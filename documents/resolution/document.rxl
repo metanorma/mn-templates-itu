@@ -1,0 +1,19 @@
+<bibdata type="standard">
+<title language="en" format="text/plain" type="main">Rules of procedure of the ITU Telecommunication Standardization Sector</title>
+
+
+
+<docidentifier type="ITU">ITU-T 1</docidentifier><docidentifier type="ITU-lang">ITU-T 1-E</docidentifier><docnumber>1</docnumber><date type="published"><on>2050-02-28</on></date><contributor><role type="author"/><organization>
+<name>International Telecommunication Union</name>
+</organization></contributor><contributor><role type="publisher"/><organization>
+<name>International Telecommunication Union</name>
+</organization></contributor><edition>Hammamet, 2016</edition><note type="title-footnote"><p>Optional footnote content (appended to subtitle).</p>
+</note><language>en</language><script>Latn</script><status><stage>in-force</stage></status><copyright><from>2022</from><owner><organization>
+<name>International Telecommunication Union</name>
+</organization></owner></copyright><series type="main">
+<title>W: Authoring templates</title>
+</series><series type="secondary">
+<title>Recommendations</title>
+</series><series type="tertiary">
+<title>Metanorma template</title>
+</series><keyword>Authoring</keyword><keyword>metanorma</keyword><keyword>recommendation</keyword><keyword>template</keyword><ext><doctype>resolution</doctype><editorialgroup><bureau>T</bureau></editorialgroup><ip-notice-received>false</ip-notice-received><meeting acronym="WTSA-16">WORLD TELECOMMUNICATION STANDARDIZATION ASSEMBLY</meeting><meeting-place>Hammamet</meeting-place><meeting-date><from>2016-10-25</from><to>2016-11-03</to></meeting-date><structuredidentifier><bureau>T</bureau><docnumber>1</docnumber></structuredidentifier></ext></bibdata>

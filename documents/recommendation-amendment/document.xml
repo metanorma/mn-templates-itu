@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itu-standard xmlns="https://www.metanorma.org/ns/itu" type="semantic" version="2.1.7">
+<bibdata type="standard">
+<title language="en" format="text/plain" type="main">Template for ITU Recommendation Amendment</title>
+
+
+
+<docidentifier type="ITU">ITU-T W.3000 (fictitious)</docidentifier><docidentifier type="ITU-lang">ITU-T W.3000 (fictitious)-E</docidentifier><docnumber>W.3000 (fictitious)</docnumber><date type="published"><on>2050-02-28</on></date><contributor><role type="author"/><organization>
+<name>International Telecommunication Union</name>
+</organization></contributor><contributor><role type="publisher"/><organization>
+<name>International Telecommunication Union</name>
+</organization></contributor><language>en</language><script>Latn</script><abstract><p><em>&lt; Place a summary for the amendment &gt;</em></p>
+</abstract><status><stage>draft</stage></status><copyright><from>2022</from><owner><organization>
+<name>International Telecommunication Union</name>
+</organization></owner></copyright><series type="main">
+<title>W: Authoring templates</title>
+</series><series type="secondary">
+<title>First level subseries title</title>
+</series><series type="tertiary">
+<title>Second level subseries title</title>
+</series><keyword>Amendment</keyword><keyword>authoring</keyword><keyword>metanorma</keyword><keyword>recommendation</keyword><keyword>template</keyword><ext><doctype>recommendation-amendment</doctype><editorialgroup><bureau>T</bureau></editorialgroup><ip-notice-received>false</ip-notice-received><structuredidentifier><bureau>T</bureau><docnumber>W.3000 (fictitious)</docnumber></structuredidentifier></ext></bibdata>
+<boilerplate>
+  
+  <copyright-statement>
+    <clause>
+      <p id="_0b30f98f-3c13-ea40-fbb6-0a502d527b1c">© ITU 2022</p>
+<p id="_d0cc06a4-da8a-928d-1a6f-a56d62dc6a76">All rights reserved. No part of this publication may be reproduced, by any means whatsoever, without the prior written permission of ITU.</p>
+    </clause>
+  </copyright-statement>
+  
+  <legal-statement>
+    <clause>
+      <title>FOREWORD</title>
+<p id="_f4854233-2d6a-cf7b-e65a-329b5f5ac2cd">The International Telecommunication Union (ITU) is the United Nations specialized agency in the field of telecommunications , information and communication technologies (ICTs). The ITU Telecommunication Standardization Sector (ITU-T) is a permanent organ of ITU. ITU-T is responsible for studying technical, operating and tariff questions and issuing Recommendations on them with a view to standardizing telecommunications on a worldwide basis.</p>
+<p id="_ac1f1102-d1d8-0b70-0a06-2c50412892c7">The World Telecommunication Standardization Assembly (WTSA), which meets every four years, establishes the topics for study by the ITU T study groups which, in turn, produce Recommendations on these topics.</p>
+<p id="_7f2e383f-443c-f253-0024-a68c9dcf001a">The approval of ITU-T Recommendations is covered by the procedure laid down in WTSA Resolution 1 .</p>
+<p id="_f5700abd-cb53-4bd6-2685-6e94ca2ed603">In some areas of information technology which fall within ITU-T's purview, the necessary standards are prepared on a collaborative basis with ISO and IEC.</p>
+
+
+    </clause>
+
+    
+    <clause id="draft-warning">
+      <title>CAUTION! PREPUBLISHED RECOMMENDATION AMENDMENT</title>
+      <p id="_7c0e19c4-38df-3741-d029-6009ee719766">This
+        prepublication is an unedited version of a recently approved Recommendation Amendment.
+  It will be replaced by the published version after editing. Therefore,
+  there will be differences between this prepublication and the published
+  version.</p>
+    </clause>
+    
+  </legal-statement>
+  
+</boilerplate>
+
+
+
+<preface><abstract id="_summary"><title>Abstract</title><p id="_a63cba96-1d02-c30f-e525-71030f518b11"><em>&lt; Place a summary for the amendment &gt;</em></p>
+</abstract><introduction id="_introduction" obligation="informative">
+<title>Introduction</title>
+<p id="_f76fa3bf-5f4f-22f5-766f-1945b28e1ce0"><em>&lt; Place an introduction for the amendment &gt;</em></p>
+</introduction><clause id="_source" type="source" inline-header="false" obligation="informative">
+<title>Source</title>
+<p id="_c2a46330-94a0-55e6-1531-e552913460fb"><em>&lt; Specify the study group that approved the amendment, procedure(s) that apply, and date of approval. &gt;</em></p>
+</clause></preface><sections>
+
+
+
+<clause id="_main_content_title" inline-header="false" obligation="normative">
+<title>Main content title</title>
+<p id="_bb5a5639-eb17-3e48-d23e-9ba4f8a89dd7"><em>&lt; Amendment content &gt;</em></p>
+</clause>
+</sections>
+</itu-standard>

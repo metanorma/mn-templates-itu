@@ -1,0 +1,1020 @@
+<relaton-collection xmlns="https://open.ribose.com/relaton-xml"><title>ITU deliverable templates in Metanorma AsciiDoc</title><contributor><role type='author'/><organization><name>ITU: International Telecommunication Union</name></organization></contributor><relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Rules of procedure of the ITU Telecommunication Standardization Sector</title>
+  <uri type="xml">documents/resolution/document.xml</uri>
+  <uri type="doc">documents/resolution/document.doc</uri>
+  <uri type="html">documents/resolution/document.html</uri>
+  <uri type="rxl">documents/resolution/document.rxl</uri>
+  <docidentifier type="ITU">ITU-T 1</docidentifier>
+  <docidentifier type="ITU-lang">ITU-T 1-E</docidentifier>
+  <docnumber>1</docnumber>
+  <date type="published">
+    <on>2050-02-28</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Telecommunication Union</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Telecommunication Union</name>
+    </organization>
+  </contributor>
+  <edition>Hammamet, 2016</edition>
+  <note type="title-footnote">Optional footnote content (appended to subtitle).
+</note>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage>in-force</stage>
+  </status>
+  <copyright>
+    <from>2022</from>
+    <owner>
+      <organization>
+        <name>International Telecommunication Union</name>
+      </organization>
+    </owner>
+  </copyright>
+  <series type="main">
+    <title>W: Authoring templates</title>
+  </series>
+  <series type="secondary">
+    <title>Recommendations</title>
+  </series>
+  <series type="tertiary">
+    <title>Metanorma template</title>
+  </series>
+  <keyword>Authoring</keyword>
+  <keyword>metanorma</keyword>
+  <keyword>recommendation</keyword>
+  <keyword>template</keyword>
+  <ext>
+    <doctype>resolution</doctype>
+    <editorialgroup>
+      <bureau>T</bureau>
+    </editorialgroup>
+    <structuredidentifier>
+      <bureau>T</bureau>
+      <docnumber>1</docnumber>
+    </structuredidentifier>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Template for an ITU Supplement</title>
+  <uri type="xml">documents/supplement/document.xml</uri>
+  <uri type="doc">documents/supplement/document.doc</uri>
+  <uri type="html">documents/supplement/document.html</uri>
+  <uri type="rxl">documents/supplement/document.rxl</uri>
+  <docidentifier type="ITU">ITU-T 30</docidentifier>
+  <docidentifier type="ITU-lang">ITU-T 30-E</docidentifier>
+  <docnumber>30</docnumber>
+  <date type="published">
+    <on>2050-02-28</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Telecommunication Union</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <completename>Fred Flintstone</completename>
+      </name>
+      <affiliation>
+        <organization>
+          <name>Bedrock Quarry</name>
+          <address>
+            <city/>
+            <country/>
+          </address>
+        </organization>
+      </affiliation>
+      <phone>555 5555</phone>
+      <phone>555 5556</phone>
+      <email>x@example.com</email>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <completename/>
+      </name>
+      <affiliation>
+        <organization>
+          <address>
+            <city/>
+            <country/>
+          </address>
+        </organization>
+      </affiliation>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <completename/>
+      </name>
+      <affiliation>
+        <organization>
+          <address>
+            <city/>
+            <country/>
+          </address>
+        </organization>
+      </affiliation>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Telecommunication Union</name>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract>
+    <p>The summary goes here.</p>
+  </abstract>
+  <status>
+    <stage>draft</stage>
+  </status>
+  <copyright>
+    <from>2022</from>
+    <owner>
+      <organization>
+        <name>International Telecommunication Union</name>
+      </organization>
+    </owner>
+  </copyright>
+  <series type="main">
+    <title>W: Authoring templates</title>
+  </series>
+  <series type="secondary">
+    <title>Supplement</title>
+  </series>
+  <series type="tertiary">
+    <title>Metanorma template</title>
+  </series>
+  <keyword>Authoring</keyword>
+  <keyword>metanorma</keyword>
+  <keyword>supplement</keyword>
+  <keyword>template</keyword>
+  <ext>
+    <doctype>recommendation-supplement</doctype>
+    <editorialgroup>
+      <bureau>T</bureau>
+      <group>
+        <name>Question ABC</name>
+      </group>
+      <subgroup>
+        <name>Question ABC</name>
+      </subgroup>
+      <workgroup>
+        <name>Question ABC</name>
+      </workgroup>
+    </editorialgroup>
+    <structuredidentifier>
+      <bureau>T</bureau>
+      <docnumber>30</docnumber>
+    </structuredidentifier>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Template for ITU Focus Group</title>
+  <uri type="xml">documents/focus-group/document.xml</uri>
+  <uri type="doc">documents/focus-group/document.doc</uri>
+  <uri type="html">documents/focus-group/document.html</uri>
+  <uri type="rxl">documents/focus-group/document.rxl</uri>
+  <docidentifier type="ITU">ITU-T FGABC-xxx</docidentifier>
+  <docidentifier type="ITU-lang">ITU-T FGABC-xxx-E</docidentifier>
+  <docnumber>FGABC-xxx</docnumber>
+  <date type="published">
+    <on>2050-02-28</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Telecommunication Union</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Telecommunication Union</name>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract>
+    <p>
+      <em>&amp;lt; Briefly describe the content of the document &amp;gt;</em>
+    </p>
+  </abstract>
+  <status>
+    <stage>draft</stage>
+  </status>
+  <copyright>
+    <from>2022</from>
+    <owner>
+      <organization>
+        <name>International Telecommunication Union</name>
+      </organization>
+    </owner>
+  </copyright>
+  <series type="main">
+    <title>W: Authoring templates</title>
+  </series>
+  <keyword>Authoring</keyword>
+  <keyword>focus-group</keyword>
+  <keyword>metanorma</keyword>
+  <keyword>template</keyword>
+  <ext>
+    <doctype>focus-group</doctype>
+    <editorialgroup>
+      <bureau>T</bureau>
+    </editorialgroup>
+    <structuredidentifier>
+      <bureau>T</bureau>
+      <docnumber>FGABC-xxx</docnumber>
+    </structuredidentifier>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Template for ITU Implementer's Guide</title>
+  <uri type="xml">documents/implementers-guide/document.xml</uri>
+  <uri type="doc">documents/implementers-guide/document.doc</uri>
+  <uri type="html">documents/implementers-guide/document.html</uri>
+  <uri type="rxl">documents/implementers-guide/document.rxl</uri>
+  <docidentifier type="ITU">ITU-T G.Imp7713</docidentifier>
+  <docidentifier type="ITU-lang">ITU-T G.Imp7713-E</docidentifier>
+  <docidentifier type="ITU-Recommendation">G.7713.1</docidentifier>
+  <docidentifier type="ITU-Recommendation">Y.1704.1</docidentifier>
+  <docnumber>G.Imp7713</docnumber>
+  <date type="published">
+    <on>2050-02-28</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Telecommunication Union</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="editor"/>
+    <person>
+      <name>
+        <completename>Fred Flintstone</completename>
+      </name>
+      <affiliation>
+        <organization>
+          <name>Bedrock Quarry</name>
+          <address>
+            <city/>
+            <country/>
+          </address>
+        </organization>
+      </affiliation>
+      <phone>555 5555</phone>
+      <phone>555 5556</phone>
+      <email>x@example.com</email>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <completename/>
+      </name>
+      <affiliation>
+        <organization>
+          <address>
+            <city/>
+            <country/>
+          </address>
+        </organization>
+      </affiliation>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <completename/>
+      </name>
+      <affiliation>
+        <organization>
+          <address>
+            <city/>
+            <country/>
+          </address>
+        </organization>
+      </affiliation>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Telecommunication Union</name>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract><p>This document is…​</p><p>This revision contains all updates submitted up to and including those at Study Group YY meeting in <em>{Month Year}</em>.</p>&lt;p&gt;This document was approved by ITU-T Study Group YY on <em>{Day Month Year}</em> and &lt;em&gt;{obsoletes | complements}&lt;/em&gt;</abstract>
+  <status>
+    <stage>draft</stage>
+  </status>
+  <copyright>
+    <from>2022</from>
+    <owner>
+      <organization>
+        <name>International Telecommunication Union</name>
+      </organization>
+    </owner>
+  </copyright>
+  <series type="main">
+    <title>W: Authoring templates</title>
+  </series>
+  <series type="secondary">
+    <title>Implementer's Guide</title>
+  </series>
+  <series type="tertiary">
+    <title>Metanorma template</title>
+  </series>
+  <keyword>Authoring</keyword>
+  <keyword>implementers-guide</keyword>
+  <keyword>metanorma</keyword>
+  <keyword>template</keyword>
+  <ext>
+    <doctype>implementers-guide</doctype>
+    <editorialgroup>
+      <bureau>T</bureau>
+      <group>
+        <name>Question ABC</name>
+      </group>
+      <subgroup>
+        <name>Question ABC</name>
+      </subgroup>
+      <workgroup>
+        <name>Question ABC</name>
+      </workgroup>
+    </editorialgroup>
+    <structuredidentifier>
+      <bureau>T</bureau>
+      <docnumber>G.Imp7713</docnumber>
+    </structuredidentifier>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Recommendation | International Standard title</title>
+  <uri type="xml">documents/joint-itu-iso-iec/document.xml</uri>
+  <uri type="doc">documents/joint-itu-iso-iec/document.doc</uri>
+  <uri type="html">documents/joint-itu-iso-iec/document.html</uri>
+  <uri type="rxl">documents/joint-itu-iso-iec/document.rxl</uri>
+  <docidentifier type="ITU">ITU-T W.3100</docidentifier>
+  <docidentifier type="ITU-lang">ITU-T W.3100-E</docidentifier>
+  <docnumber>W.3100</docnumber>
+  <date type="published">
+    <on>2050-02-28</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Telecommunication Union</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Telecommunication Union</name>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract>
+    <p>This Recommendation | International Standard…​ (complete)</p>
+  </abstract>
+  <status>
+    <stage>draft</stage>
+  </status>
+  <copyright>
+    <from>2022</from>
+    <owner>
+      <organization>
+        <name>International Telecommunication Union</name>
+      </organization>
+    </owner>
+  </copyright>
+  <series type="main">
+    <title>W: Authoring templates</title>
+  </series>
+  <series type="secondary">
+    <title>Technical Report</title>
+  </series>
+  <series type="tertiary">
+    <title>Metanorma template</title>
+  </series>
+  <keyword>Authoring</keyword>
+  <keyword>joint-itu-iso-iec</keyword>
+  <keyword>metanorma</keyword>
+  <keyword>template</keyword>
+  <ext>
+    <doctype>joint-itu-iso-iec</doctype>
+    <editorialgroup>
+      <bureau>T</bureau>
+    </editorialgroup>
+    <structuredidentifier>
+      <bureau>T</bureau>
+      <docnumber>W.3100</docnumber>
+    </structuredidentifier>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Template for an ITU Recommendation</title>
+  <uri type="xml">documents/recommendation/document.xml</uri>
+  <uri type="doc">documents/recommendation/document.doc</uri>
+  <uri type="html">documents/recommendation/document.html</uri>
+  <uri type="rxl">documents/recommendation/document.rxl</uri>
+  <docidentifier type="ITU">ITU-T W.3000 (fictitious)</docidentifier>
+  <docidentifier type="ITU-lang">ITU-T W.3000 (fictitious)-E</docidentifier>
+  <docnumber>W.3000 (fictitious)</docnumber>
+  <date type="published">
+    <on>2050-02-28</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Telecommunication Union</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Telecommunication Union</name>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract>
+    <p>The summary goes here.</p>
+  </abstract>
+  <status>
+    <stage>draft</stage>
+  </status>
+  <copyright>
+    <from>2022</from>
+    <owner>
+      <organization>
+        <name>International Telecommunication Union</name>
+      </organization>
+    </owner>
+  </copyright>
+  <series type="main">
+    <title>W: Authoring templates</title>
+  </series>
+  <series type="secondary">
+    <title>Recommendations</title>
+  </series>
+  <series type="tertiary">
+    <title>Metanorma template</title>
+  </series>
+  <keyword>Authoring</keyword>
+  <keyword>metanorma</keyword>
+  <keyword>recommendation</keyword>
+  <keyword>template</keyword>
+  <ext>
+    <doctype>recommendation</doctype>
+    <editorialgroup>
+      <bureau>T</bureau>
+    </editorialgroup>
+    <structuredidentifier>
+      <bureau>T</bureau>
+      <docnumber>W.3000 (fictitious)</docnumber>
+    </structuredidentifier>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Template for ITU Recommendation Amendment</title>
+  <uri type="xml">documents/recommendation-amendment/document.xml</uri>
+  <uri type="doc">documents/recommendation-amendment/document.doc</uri>
+  <uri type="html">documents/recommendation-amendment/document.html</uri>
+  <uri type="rxl">documents/recommendation-amendment/document.rxl</uri>
+  <docidentifier type="ITU">ITU-T W.3000 (fictitious)</docidentifier>
+  <docidentifier type="ITU-lang">ITU-T W.3000 (fictitious)-E</docidentifier>
+  <docnumber>W.3000 (fictitious)</docnumber>
+  <date type="published">
+    <on>2050-02-28</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Telecommunication Union</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Telecommunication Union</name>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract>
+    <p>
+      <em>&amp;lt; Place a summary for the amendment &amp;gt;</em>
+    </p>
+  </abstract>
+  <status>
+    <stage>draft</stage>
+  </status>
+  <copyright>
+    <from>2022</from>
+    <owner>
+      <organization>
+        <name>International Telecommunication Union</name>
+      </organization>
+    </owner>
+  </copyright>
+  <series type="main">
+    <title>W: Authoring templates</title>
+  </series>
+  <series type="secondary">
+    <title>First level subseries title</title>
+  </series>
+  <series type="tertiary">
+    <title>Second level subseries title</title>
+  </series>
+  <keyword>Amendment</keyword>
+  <keyword>authoring</keyword>
+  <keyword>metanorma</keyword>
+  <keyword>recommendation</keyword>
+  <keyword>template</keyword>
+  <ext>
+    <doctype>recommendation-amendment</doctype>
+    <editorialgroup>
+      <bureau>T</bureau>
+    </editorialgroup>
+    <structuredidentifier>
+      <bureau>T</bureau>
+      <docnumber>W.3000 (fictitious)</docnumber>
+    </structuredidentifier>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Template for ITU Recommendation Annex</title>
+  <title type="annex" format="text/plain" language="en">Template of Recommendation Annex</title>
+  <uri type="xml">documents/recommendation-annex/document.xml</uri>
+  <uri type="doc">documents/recommendation-annex/document.doc</uri>
+  <uri type="html">documents/recommendation-annex/document.html</uri>
+  <uri type="rxl">documents/recommendation-annex/document.rxl</uri>
+  <docidentifier type="ITU">ITU-T W.3000 (fictitious)</docidentifier>
+  <docidentifier type="ITU-lang">ITU-T W.3000 (fictitious)-E</docidentifier>
+  <docnumber>W.3000 (fictitious)</docnumber>
+  <date type="published">
+    <on>2050-02-28</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Telecommunication Union</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Telecommunication Union</name>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract>
+    <p>
+      <em>&amp;lt; Place summary of the new annex &amp;gt;</em>
+    </p>
+  </abstract>
+  <status>
+    <stage>draft</stage>
+  </status>
+  <copyright>
+    <from>2022</from>
+    <owner>
+      <organization>
+        <name>International Telecommunication Union</name>
+      </organization>
+    </owner>
+  </copyright>
+  <series type="main">
+    <title>W: Authoring templates</title>
+  </series>
+  <series type="secondary">
+    <title>Recommendations</title>
+  </series>
+  <series type="tertiary">
+    <title>Metanorma template</title>
+  </series>
+  <keyword>Authoring</keyword>
+  <keyword>metanorma</keyword>
+  <keyword>recommendation</keyword>
+  <keyword>template</keyword>
+  <ext>
+    <doctype>recommendation-annex</doctype>
+    <editorialgroup>
+      <bureau>T</bureau>
+    </editorialgroup>
+    <structuredidentifier>
+      <bureau>T</bureau>
+      <docnumber>W.3000 (fictitious)</docnumber>
+      <annexid>B</annexid>
+    </structuredidentifier>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Template for ITU Recommendation Corrigendum</title>
+  <uri type="xml">documents/recommendation-corrigendum/document.xml</uri>
+  <uri type="doc">documents/recommendation-corrigendum/document.doc</uri>
+  <uri type="html">documents/recommendation-corrigendum/document.html</uri>
+  <uri type="rxl">documents/recommendation-corrigendum/document.rxl</uri>
+  <docidentifier type="ITU">ITU-T W.3000 (fictitious)</docidentifier>
+  <docidentifier type="ITU-lang">ITU-T W.3000 (fictitious)-E</docidentifier>
+  <docnumber>W.3000 (fictitious)</docnumber>
+  <date type="published">
+    <on>2050-02-28</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Telecommunication Union</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Telecommunication Union</name>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract>
+    <p>
+      <em>&amp;lt; Place a summary for this corrigendum &amp;gt;</em>
+    </p>
+  </abstract>
+  <status>
+    <stage>draft</stage>
+  </status>
+  <copyright>
+    <from>2022</from>
+    <owner>
+      <organization>
+        <name>International Telecommunication Union</name>
+      </organization>
+    </owner>
+  </copyright>
+  <series type="main">
+    <title>W: Authoring templates</title>
+  </series>
+  <series type="secondary">
+    <title>First level subseries title</title>
+  </series>
+  <series type="tertiary">
+    <title>Second level subseries title</title>
+  </series>
+  <keyword>Authoring</keyword>
+  <keyword>corrigendum</keyword>
+  <keyword>metanorma</keyword>
+  <keyword>recommendation</keyword>
+  <keyword>template</keyword>
+  <ext>
+    <doctype>recommendation-corrigendum</doctype>
+    <editorialgroup>
+      <bureau>T</bureau>
+    </editorialgroup>
+    <structuredidentifier>
+      <bureau>T</bureau>
+      <docnumber>W.3000 (fictitious)</docnumber>
+    </structuredidentifier>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Template for ITU Errata to Recommendation</title>
+  <uri type="xml">documents/recommendation-errata/document.xml</uri>
+  <uri type="doc">documents/recommendation-errata/document.doc</uri>
+  <uri type="html">documents/recommendation-errata/document.html</uri>
+  <uri type="rxl">documents/recommendation-errata/document.rxl</uri>
+  <docidentifier type="ITU">ITU-T W.3000 (fictitious)</docidentifier>
+  <docidentifier type="ITU-lang">ITU-T W.3000 (fictitious)-E</docidentifier>
+  <docnumber>W.3000 (fictitious)</docnumber>
+  <date type="published">
+    <on>2050-02-28</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Telecommunication Union</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Telecommunication Union</name>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage>draft</stage>
+  </status>
+  <copyright>
+    <from>2022</from>
+    <owner>
+      <organization>
+        <name>International Telecommunication Union</name>
+      </organization>
+    </owner>
+  </copyright>
+  <series type="main">
+    <title>W: Authoring templates</title>
+  </series>
+  <series type="secondary">
+    <title>Errata to Recommendation</title>
+  </series>
+  <series type="tertiary">
+    <title>Metanorma template</title>
+  </series>
+  <keyword>Authoring</keyword>
+  <keyword>errata</keyword>
+  <keyword>metanorma</keyword>
+  <keyword>recommendation</keyword>
+  <keyword>template</keyword>
+  <ext>
+    <doctype>recommendation-errata</doctype>
+    <editorialgroup>
+      <bureau>T</bureau>
+    </editorialgroup>
+    <structuredidentifier>
+      <bureau>T</bureau>
+      <docnumber>W.3000 (fictitious)</docnumber>
+    </structuredidentifier>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Template for ITU Technical Paper</title>
+  <uri type="xml">documents/technical-paper/document.xml</uri>
+  <uri type="doc">documents/technical-paper/document.doc</uri>
+  <uri type="html">documents/technical-paper/document.html</uri>
+  <uri type="rxl">documents/technical-paper/document.rxl</uri>
+  <docidentifier type="ITU">ITU-T xSTP-ACRONYM</docidentifier>
+  <docidentifier type="ITU-lang">ITU-T xSTP-ACRONYM-E</docidentifier>
+  <docnumber>xSTP-ACRONYM</docnumber>
+  <date type="published">
+    <on>2050-02-28</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Telecommunication Union</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <completename>Fred Flintstone</completename>
+      </name>
+      <affiliation>
+        <organization>
+          <name>Bedrock Quarry</name>
+          <address>
+            <city/>
+            <country/>
+          </address>
+        </organization>
+      </affiliation>
+      <phone>555 5555</phone>
+      <phone>555 5556</phone>
+      <email>x@example.com</email>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <completename/>
+      </name>
+      <affiliation>
+        <organization>
+          <address>
+            <city/>
+            <country/>
+          </address>
+        </organization>
+      </affiliation>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <completename/>
+      </name>
+      <affiliation>
+        <organization>
+          <address>
+            <city/>
+            <country/>
+          </address>
+        </organization>
+      </affiliation>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Telecommunication Union</name>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract>
+    <p>This technical paper…​ (complete)</p>
+  </abstract>
+  <status>
+    <stage>draft</stage>
+  </status>
+  <copyright>
+    <from>2022</from>
+    <owner>
+      <organization>
+        <name>International Telecommunication Union</name>
+      </organization>
+    </owner>
+  </copyright>
+  <series type="main">
+    <title>W: Authoring templates</title>
+  </series>
+  <series type="secondary">
+    <title>Technical Paper</title>
+  </series>
+  <series type="tertiary">
+    <title>Metanorma template</title>
+  </series>
+  <keyword>Authoring</keyword>
+  <keyword>metanorma</keyword>
+  <keyword>technical-paper</keyword>
+  <keyword>template</keyword>
+  <ext>
+    <doctype>technical-paper</doctype>
+    <editorialgroup>
+      <bureau>T</bureau>
+      <group>
+        <name>Question ABC</name>
+      </group>
+      <subgroup>
+        <name>Question ABC</name>
+      </subgroup>
+      <workgroup>
+        <name>Question ABC</name>
+      </workgroup>
+    </editorialgroup>
+    <structuredidentifier>
+      <bureau>T</bureau>
+      <docnumber>xSTP-ACRONYM</docnumber>
+    </structuredidentifier>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Template for ITU Technical Report</title>
+  <uri type="xml">documents/technical-report/document.xml</uri>
+  <uri type="doc">documents/technical-report/document.doc</uri>
+  <uri type="html">documents/technical-report/document.html</uri>
+  <uri type="rxl">documents/technical-report/document.rxl</uri>
+  <docidentifier type="ITU">ITU-T T-TUT-ACRONYM</docidentifier>
+  <docidentifier type="ITU-lang">ITU-T T-TUT-ACRONYM-E</docidentifier>
+  <docnumber>T-TUT-ACRONYM</docnumber>
+  <date type="published">
+    <on>2050-02-28</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Telecommunication Union</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <completename>Fred Flintstone</completename>
+      </name>
+      <affiliation>
+        <organization>
+          <name>Bedrock Quarry</name>
+          <address>
+            <city/>
+            <country/>
+          </address>
+        </organization>
+      </affiliation>
+      <phone>555 5555</phone>
+      <phone>555 5556</phone>
+      <email>x@example.com</email>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <completename/>
+      </name>
+      <affiliation>
+        <organization>
+          <address>
+            <city/>
+            <country/>
+          </address>
+        </organization>
+      </affiliation>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <completename/>
+      </name>
+      <affiliation>
+        <organization>
+          <address>
+            <city/>
+            <country/>
+          </address>
+        </organization>
+      </affiliation>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Telecommunication Union</name>
+    </organization>
+  </contributor>
+  <version>
+    <draft>5</draft>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract>
+    <p>This technical report …​ (complete).</p>
+  </abstract>
+  <status>
+    <stage>draft</stage>
+  </status>
+  <copyright>
+    <from>2022</from>
+    <owner>
+      <organization>
+        <name>International Telecommunication Union</name>
+      </organization>
+    </owner>
+  </copyright>
+  <series type="main">
+    <title>W: Authoring templates</title>
+  </series>
+  <series type="secondary">
+    <title>Technical Report</title>
+  </series>
+  <series type="tertiary">
+    <title>Metanorma template</title>
+  </series>
+  <keyword>Authoring</keyword>
+  <keyword>metanorma</keyword>
+  <keyword>technical-report</keyword>
+  <keyword>template</keyword>
+  <ext>
+    <doctype>technical-report</doctype>
+    <editorialgroup>
+      <bureau>T</bureau>
+      <group>
+        <name>Question ABC</name>
+      </group>
+      <subgroup>
+        <name>Question ABC</name>
+      </subgroup>
+      <workgroup>
+        <name>Question ABC</name>
+      </workgroup>
+    </editorialgroup>
+    <structuredidentifier>
+      <bureau>T</bureau>
+      <docnumber>T-TUT-ACRONYM</docnumber>
+    </structuredidentifier>
+  </ext>
+</bibdata></relation>
+</relaton-collection>

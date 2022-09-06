@@ -1,0 +1,35 @@
+/__w/mn-templates-itu/mn-templates-itu/site/documents/resolution/document.err errors
+
+
+== Metanorma XML Style Warning
+
+(XML Line 000062): Hanging paragraph in clause
+	<clause id="_section_1" inline-header="false" obligation="normative">
+	<title>SECTION 1</title>
+	<p id="_8abc35c4-6212-d0fc-1158-33623733d1f7"><strong>Section 1 title</strong></p>
+	
+	<clause id="blank-section-1" inline-header="true" obligation="normative">
+(XML Line 000079): Hanging paragraph in clause
+	<clause id="_section_n" inline-header="false" obligation="normative">
+	<title>SECTION n</title>
+	<p id="_29fde79e-df7b-f500-5c49-6c043736fbee"><strong>Section n title</strong></p>
+	
+	<clause id="_subsection_title_if_apply" inline-header="false" obligation="normative">
+
+
+== Style
+
+(): No Summary has been provided
+(): No Keywords have been provided
+(): ITU-T 1 does not match ITU document identifier conventions
+
+
+== Document Attributes
+
+(): resolution is not a recognised document type
+
+
+== Metanorma XML Syntax
+
+(XML Line 000049:11): element "sections" not allowed yet; missing required element "preface"
+(XML Line 000136:16): element "itu-standard" incomplete; missing required element "bibliography"

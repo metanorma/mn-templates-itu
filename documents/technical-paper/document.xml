@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itu-standard xmlns="https://www.metanorma.org/ns/itu" type="semantic" version="2.1.7">
+<bibdata type="standard">
+<title language="en" format="text/plain" type="main">Template for ITU Technical Paper</title>
+
+
+
+<docidentifier type="ITU">ITU-T xSTP-ACRONYM</docidentifier><docidentifier type="ITU-lang">ITU-T xSTP-ACRONYM-E</docidentifier><docnumber>xSTP-ACRONYM</docnumber><date type="published"><on>2050-02-28</on></date><contributor><role type="author"/><organization>
+<name>International Telecommunication Union</name>
+</organization></contributor><contributor><role type="author"/><person>
+<name><completename>Fred Flintstone</completename></name>
+<affiliation><organization>
+<name>Bedrock Quarry</name>
+<address><formattedAddress>Canada</formattedAddress></address></organization></affiliation><phone>555 5555</phone><phone type="fax">555 5556</phone><email>x@example.com</email></person></contributor><contributor><role type="author"/><person>
+<name><completename/></name>
+<affiliation><organization>
+<address><formattedAddress/></address></organization></affiliation></person></contributor><contributor><role type="author"/><person>
+<name><completename/></name>
+<affiliation><organization>
+<address><formattedAddress/></address></organization></affiliation></person></contributor><contributor><role type="publisher"/><organization>
+<name>International Telecommunication Union</name>
+</organization></contributor><language>en</language><script>Latn</script><abstract><p>This technical paper…​ (complete)</p>
+</abstract><status><stage>draft</stage></status><copyright><from>2022</from><owner><organization>
+<name>International Telecommunication Union</name>
+</organization></owner></copyright><series type="main">
+<title>W: Authoring templates</title>
+</series><series type="secondary">
+<title>Technical Paper</title>
+</series><series type="tertiary">
+<title>Metanorma template</title>
+</series><keyword>Authoring</keyword><keyword>metanorma</keyword><keyword>technical-paper</keyword><keyword>template</keyword><ext><doctype>technical-paper</doctype><editorialgroup><bureau>T</bureau><group>
+<name>Question ABC</name>
+</group><subgroup>
+<name>Study Group XYZ</name>
+</subgroup><workgroup>
+<name>WG1</name>
+</workgroup></editorialgroup><ip-notice-received>false</ip-notice-received><meeting>Focus Group on Vehicular Multimedia meeting</meeting><meeting-date><from>2000-01-01</from><to>2000-01-02</to></meeting-date><intended-type>TD</intended-type><source>Source</source><structuredidentifier><bureau>T</bureau><docnumber>xSTP-ACRONYM</docnumber></structuredidentifier></ext></bibdata>
+<boilerplate>
+  
+  <copyright-statement>
+    <clause>
+      <p id="_0b30f98f-3c13-ea40-fbb6-0a502d527b1c">© ITU 2022</p>
+<p id="_d0cc06a4-da8a-928d-1a6f-a56d62dc6a76">All rights reserved. No part of this publication may be reproduced, by any means whatsoever, without the prior written permission of ITU.</p>
+    </clause>
+  </copyright-statement>
+  
+  <legal-statement>
+    <clause>
+      <title>FOREWORD</title>
+<p id="_f4854233-2d6a-cf7b-e65a-329b5f5ac2cd">The International Telecommunication Union (ITU) is the United Nations specialized agency in the field of telecommunications , information and communication technologies (ICTs). The ITU Telecommunication Standardization Sector (ITU-T) is a permanent organ of ITU. ITU-T is responsible for studying technical, operating and tariff questions and issuing Recommendations on them with a view to standardizing telecommunications on a worldwide basis.</p>
+<p id="_ac1f1102-d1d8-0b70-0a06-2c50412892c7">The World Telecommunication Standardization Assembly (WTSA), which meets every four years, establishes the topics for study by the ITU T study groups which, in turn, produce Recommendations on these topics.</p>
+<p id="_7f2e383f-443c-f253-0024-a68c9dcf001a">The approval of ITU-T Recommendations is covered by the procedure laid down in WTSA Resolution 1 .</p>
+<p id="_f5700abd-cb53-4bd6-2685-6e94ca2ed603">In some areas of information technology which fall within ITU-T's purview, the necessary standards are prepared on a collaborative basis with ISO and IEC.</p>
+
+
+    </clause>
+
+    
+    <clause id="draft-warning">
+      <title>CAUTION! PREPUBLISHED TECHNICAL PAPER</title>
+      <p id="_311b5d2b-7af5-835d-b50e-9bdeb24a5351">This
+        prepublication is an unedited version of a recently approved Technical Paper.
+  It will be replaced by the published version after editing. Therefore,
+  there will be differences between this prepublication and the published
+  version.</p>
+    </clause>
+    
+  </legal-statement>
+  
+</boilerplate>
+
+
+
+<preface><abstract id="_summary"><title>Abstract</title><p id="_9905236d-6b60-e0bb-3ad7-b628d7642609">This technical paper…​ (complete)</p>
+</abstract><clause id="change_log" inline-header="false" obligation="informative">
+<title>Change Log</title>
+<p id="_02900ae8-c006-c1dd-4792-eceaa58e4daf">This document contains Version X of the ITU-T Technical Paper on "<em>Template for ITU Technical Paper</em>" approved at the ITU-T Study Group Focus Group on Vehicular Multimedia meeting meeting held in Geneva, dd-dd MMMM YYYY.</p>
+
+<p id="_323117f3-bb01-7f3f-37a2-5991b831dcf4">(<strong>If there are earlier versions:</strong> This version supersedes Version VV, which was approved at the ITU-T Study Group xx meeting held in Geneva, d MMMM YYYY)</p>
+</clause></preface><sections>
+
+
+<clause id="_scope" type="scope" inline-header="false" obligation="normative">
+<title>Scope</title>
+<p id="_3b5f3d35-c81b-1f27-f22d-26f1956d6806"><em>[ADD TEXT]</em></p>
+</clause>
+
+
+
+<clause id="_terms_and_definitions" obligation="normative">
+<title>Definitions</title>
+<terms id="_terms_defined_elsewhere" type="external" obligation="normative">
+<title>Terms defined elsewhere</title><p id="_3dbc9634-f569-55ae-7b84-3286d36336bf">This Recommendation uses the following terms defined elsewhere:</p>
+<term id="term-playlist"><preferred><expression>
+<name>playlist</name>
+</expression>
+</preferred>
+<definition><verbal-definition><p id="_e17807f2-3074-4845-fac7-f08458081f35">Composed of a list of contents.</p></verbal-definition></definition>
+
+
+
+
+ <termnote id="_a9240b9d-c08f-7369-fa22-522cf0bdaa1d"><p id="_02cbedba-886e-a6c2-52a0-9edeb0928f2b">This data is created and provided by digital service providers.</p>
+</termnote><termsource status="identical" type="authoritative"><origin bibitemid="h780" type="inline" citeas="ITU-T H.780"/></termsource></term>
+
+<term id="term-metadata"><preferred><expression>
+<name>metadata</name>
+</expression>
+</preferred>
+<definition><verbal-definition><p id="_e2fb4eb9-e0b0-e387-9a29-695934eb3949">Structured information that pertains to the identity of users, systems, services, processes, resources, information or other entities.</p></verbal-definition></definition>
+
+
+ <termsource status="identical" type="authoritative"><origin bibitemid="p56" type="inline" citeas="ITU-T P.56"/></termsource></term>
+</terms>
+
+<terms id="_terms_defined_here" obligation="normative">
+<title>Terms defined here</title>
+<term id="term-region"><preferred><expression>
+<name>region</name>
+</expression>
+</preferred>
+<definition><verbal-definition><p id="_f509b508-6ae3-f461-4ed8-b995fc8eb8c2">A partial area of the screen layout to be a content displayed.</p></verbal-definition></definition>
+
+
+ <termsource status="identical" type="authoritative"><origin bibitemid="iso3166" type="inline" citeas="ISO 3166-1"/></termsource></term>
+
+<term id="term-screen-layout"><preferred><expression>
+<name>screen layout</name>
+</expression>
+</preferred>
+<definition><verbal-definition><p id="_22481313-73ae-e968-2411-9fe277c66f21">A composition of one or moreregions to be content displayed.</p></verbal-definition></definition>
+
+
+ <termsource status="identical" type="authoritative"><origin bibitemid="h780" type="inline" citeas="ITU-T H.780"/></termsource></term>
+</terms>
+</clause>
+
+<definitions id="_abbreviations" type="abbreviated_terms" obligation="normative">
+<title>Abbreviations and acronyms</title><p id="_6edbfb90-221f-451a-f24e-aa6e3d3ecfda">This Recommendation uses the following abbreviations and acronyms:</p>
+<dl id="_f2852fce-ed90-35ba-8454-40ee0b5ad975"><dt id="symbol-DS">DS</dt>
+<dd><p id="_bbf5465f-28e5-da03-96dd-f6a6cf3e8f3c">Digital Signage</p>
+</dd>
+<dt id="symbol-GML">GML</dt>
+<dd><p id="_12f8bab3-8241-dafa-56fb-ffecf9b17415">Geography Markup Language</p>
+</dd>
+<dt id="symbol-URI">URI</dt>
+<dd><p id="_dc7f6ce8-6a34-db1e-b514-1b369eee4567">Uniform Resource Identifier</p>
+</dd>
+</dl>
+</definitions>
+<clause id="specific_contents" inline-header="false" obligation="normative">
+<title>Specific contents: could be introduction or something more substantive</title>
+<p id="_f2ad7ce5-5c4d-2983-e71f-60b192d58346"><em>[ADD TEXT.]</em></p>
+
+<table id="table1">
+<name>Example of a table</name>
+<thead><tr><th valign="top" align="left">Number</th>
+<th valign="top" align="left">Observation</th>
+</tr></thead>
+<tbody><tr><td valign="top" align="left">1</td>
+<td valign="top" align="left">Sample table</td>
+</tr><tr><td valign="top" align="left">2</td>
+<td valign="top" align="left">Table header (1st row) uses style Table_head</td>
+</tr><tr><td valign="top" align="left">3</td>
+<td valign="top" align="left">Other table rows use style Table_text</td>
+</tr><tr><td valign="top" align="left">4</td>
+<td valign="top" align="left">Heading with table number uses style "Table_No &amp; title"</td>
+</tr></tbody>
+</table>
+
+<figure id="_3c4b1ecb-03b4-c2b2-2231-c2949f54b3a9">
+<name>Example of a figure</name>
+<image src="data:image/png;base64,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" id="_a6c56c18-6edd-42ce-e7df-f237ab53c9ff" mimetype="image/png" height="auto" width="auto"/></figure>
+</clause>
+
+
+
+
+</sections><annex id="annexA" inline-header="false" obligation="normative">
+<title>Annex Title</title>
+<p id="_e35e2df8-4c53-03dc-8af5-9f1148764d1d"><em>[ADD TEXT.]</em></p>
+</annex><annex id="appendixI" inline-header="false" obligation="informative">
+<title>Example of appendix</title>
+<p id="_67117471-edae-a742-bf5e-0b633c9cbe4c"><em>[ADD TEXT, IF ANY]</em>.</p>
+</annex><bibliography><references id="_references" normative="true" obligation="informative">
+<title>References</title><p id="_275a5bef-a7d6-9098-1663-185b6fe8dd33">The following ITU-T Recommendations and other references contain provisions which, through reference in this text, constitute provisions of this Recommendation. At the time of publication, the editions indicated were valid. All Recommendations and other references are subject to revision; users of this Recommendation are therefore encouraged to investigate the possibility of applying the most recent edition of the Recommendations and other references listed below. A list of the currently valid ITU-T Recommendations is regularly published. The reference to a document within this Recommendation does not give it, as a stand-alone document, the status of a Recommendation.</p><bibitem id="h780" type="standard">  <fetched>2022-09-06</fetched>  
+<title type="title-main" format="text/plain" language="en" script="Latn">Digital signage: Service requirements and IPTV-based architecture</title>
+  
+<title type="main" format="text/plain" language="en" script="Latn">Digital signage: Service requirements and IPTV-based architecture</title>
+  <uri type="src">https://www.itu.int/ITU-T/recommendations/rec.aspx?rec=11664&amp;lang=en</uri>  <uri type="obp">https://handle.itu.int/11.1002/1000/11664-en?locatt=format:pdf&amp;auth</uri>  <docidentifier type="ITU" primary="true">ITU-T H.780</docidentifier>  <contributor>    <role type="publisher"/>    <organization>      
+<name>International Telecommunication Union</name>
+      <abbreviation>ITU</abbreviation>      <uri>www.itu.int</uri>    </organization>  </contributor>  <edition>1</edition>  <language>en</language>  <script>Latn</script>  <status>    <stage>Published</stage>  </status>  <copyright>    <from>2012</from>    <owner>      <organization>        
+<name>International Telecommunication Union</name>
+        <abbreviation>ITU</abbreviation>        <uri>www.itu.int</uri>      </organization>    </owner>  </copyright>  <relation type="complements">    <bibitem type="standard">      <formattedref format="text/plain" language="en" script="Latn">H Suppl. 6 (04/2006)</formattedref>      <docidentifier type="ITU">H Suppl. 6 (04/2006)</docidentifier>    </bibitem>
+  </relation>  <relation type="complements">    <bibitem type="standard">      <formattedref format="text/plain" language="en" script="Latn">H Suppl. 9 (05/2008)</formattedref>      <docidentifier type="ITU">H Suppl. 9 (05/2008)</docidentifier>    </bibitem>
+  </relation>  <relation type="complements">    <bibitem type="standard">      <formattedref format="text/plain" language="en" script="Latn">H Suppl. 11 (02/2009)</formattedref>      <docidentifier type="ITU">H Suppl. 11 (02/2009)</docidentifier>    </bibitem>
+  </relation>  <relation type="complements">    <bibitem type="standard">      <formattedref format="text/plain" language="en" script="Latn">H Suppl. 12 (11/2013)</formattedref>      <docidentifier type="ITU">H Suppl. 12 (11/2013)</docidentifier>    </bibitem>
+  </relation>  <relation type="complements">    <bibitem type="standard">      <formattedref format="text/plain" language="en" script="Latn">H Suppl. 13 (10/2015)</formattedref>      <docidentifier type="ITU">H Suppl. 13 (10/2015)</docidentifier>    </bibitem>
+  </relation>  <relation type="complements">    <bibitem type="standard">      <formattedref format="text/plain" language="en" script="Latn">H Suppl. 14 (10/2015)</formattedref>      <docidentifier type="ITU">H Suppl. 14 (10/2015)</docidentifier>    </bibitem>
+  </relation>  <relation type="complements">    <bibitem type="standard">      <formattedref format="text/plain" language="en" script="Latn">H Suppl. 15 (01/2017)</formattedref>      <docidentifier type="ITU">H Suppl. 15 (01/2017)</docidentifier>    </bibitem>
+  </relation>  <relation type="complements">    <bibitem type="standard">      <formattedref format="text/plain" language="en" script="Latn">H Suppl. 17 (11/2014)</formattedref>      <docidentifier type="ITU">H Suppl. 17 (11/2014)</docidentifier>    </bibitem>
+  </relation>  <relation type="complements">    <bibitem type="standard">      <formattedref format="text/plain" language="en" script="Latn">H Suppl. 18 (10/2017)</formattedref>      <docidentifier type="ITU">H Suppl. 18 (10/2017)</docidentifier>    </bibitem>
+  </relation>  <relation type="complements">    <bibitem type="standard">      <formattedref format="text/plain" language="en" script="Latn">H Suppl. 19 (04/2021)</formattedref>      <docidentifier type="ITU">H Suppl. 19 (04/2021)</docidentifier>    </bibitem>
+  </relation>  <relation type="instance">    <bibitem type="standard">      <fetched>2022-09-06</fetched>      
+<title type="title-main" format="text/plain" language="en" script="Latn">Digital signage: Service requirements and IPTV-based architecture</title>
+      
+<title type="main" format="text/plain" language="en" script="Latn">Digital signage: Service requirements and IPTV-based architecture</title>
+      <uri type="src">https://www.itu.int/ITU-T/recommendations/rec.aspx?rec=11664&amp;lang=en</uri>      <uri type="obp">https://handle.itu.int/11.1002/1000/11664-en?locatt=format:pdf&amp;auth</uri>      <docidentifier type="ITU" primary="true">ITU-T H.780</docidentifier>      <date type="published">        <on>2012-06-29</on>      </date>      <contributor>        <role type="publisher"/>        <organization>          
+<name>International Telecommunication Union</name>
+          <abbreviation>ITU</abbreviation>          <uri>www.itu.int</uri>        </organization>      </contributor>      <edition>1</edition>      <language>en</language>      <script>Latn</script>      <abstract format="text/plain" language="en" script="Latn">Recommendation ITU-T H.780 describes a general framework for digital signage (DS) services based on IPTV architecture from the viewpoint of technical and service aspects. First, DS domains, a generic DS architecture and the classification of DS services are introduced. As technical IPTV specifications are close to those of DS, a brief comparison between the two services is provided (e.g.,structure of a functional group and detailed media processing). Subsequently, high-level requirements concerning DS services are described. In addition, this Recommendation contains content delivery methods and details of functionalities of both server- and client-side applications for DS services.</abstract>      <status>        <stage>Published</stage>      </status>      <copyright>        <from>2012</from>        <owner>          <organization>            
+<name>International Telecommunication Union</name>
+            <abbreviation>ITU</abbreviation>            <uri>www.itu.int</uri>          </organization>        </owner>      </copyright>      <relation type="complements">        <bibitem type="standard">          <formattedref format="text/plain" language="en" script="Latn">H Suppl. 6 (04/2006)</formattedref>          <docidentifier type="ITU">H Suppl. 6 (04/2006)</docidentifier>        </bibitem>
+      </relation>      <relation type="complements">        <bibitem type="standard">          <formattedref format="text/plain" language="en" script="Latn">H Suppl. 9 (05/2008)</formattedref>          <docidentifier type="ITU">H Suppl. 9 (05/2008)</docidentifier>        </bibitem>
+      </relation>      <relation type="complements">        <bibitem type="standard">          <formattedref format="text/plain" language="en" script="Latn">H Suppl. 11 (02/2009)</formattedref>          <docidentifier type="ITU">H Suppl. 11 (02/2009)</docidentifier>        </bibitem>
+      </relation>      <relation type="complements">        <bibitem type="standard">          <formattedref format="text/plain" language="en" script="Latn">H Suppl. 12 (11/2013)</formattedref>          <docidentifier type="ITU">H Suppl. 12 (11/2013)</docidentifier>        </bibitem>
+      </relation>      <relation type="complements">        <bibitem type="standard">          <formattedref format="text/plain" language="en" script="Latn">H Suppl. 13 (10/2015)</formattedref>          <docidentifier type="ITU">H Suppl. 13 (10/2015)</docidentifier>        </bibitem>
+      </relation>      <relation type="complements">        <bibitem type="standard">          <formattedref format="text/plain" language="en" script="Latn">H Suppl. 14 (10/2015)</formattedref>          <docidentifier type="ITU">H Suppl. 14 (10/2015)</docidentifier>        </bibitem>
+      </relation>      <relation type="complements">        <bibitem type="standard">          <formattedref format="text/plain" language="en" script="Latn">H Suppl. 15 (01/2017)</formattedref>          <docidentifier type="ITU">H Suppl. 15 (01/2017)</docidentifier>        </bibitem>
+      </relation>      <relation type="complements">        <bibitem type="standard">          <formattedref format="text/plain" language="en" script="Latn">H Suppl. 17 (11/2014)</formattedref>          <docidentifier type="ITU">H Suppl. 17 (11/2014)</docidentifier>        </bibitem>
+      </relation>      <relation type="complements">        <bibitem type="standard">          <formattedref format="text/plain" language="en" script="Latn">H Suppl. 18 (10/2017)</formattedref>          <docidentifier type="ITU">H Suppl. 18 (10/2017)</docidentifier>        </bibitem>
+      </relation>      <relation type="complements">        <bibitem type="standard">          <formattedref format="text/plain" language="en" script="Latn">H Suppl. 19 (04/2021)</formattedref>          <docidentifier type="ITU">H Suppl. 19 (04/2021)</docidentifier>        </bibitem>
+      </relation>      <place>Geneva</place>    </bibitem>
+  </relation>  <place>Geneva</place></bibitem><bibitem id="p56" type="standard">  <fetched>2022-09-06</fetched>  
+<title type="title-main" format="text/plain" language="en" script="Latn">Objective measurement of active speech level</title>
+  
+<title type="main" format="text/plain" language="en" script="Latn">Objective measurement of active speech level</title>
+  <uri type="src">https://www.itu.int/ITU-T/recommendations/rec.aspx?rec=11461&amp;lang=en</uri>  <uri type="obp">https://handle.itu.int/11.1002/1000/11461-en?locatt=format:pdf&amp;auth</uri>  <docidentifier type="ITU" primary="true">ITU-T P.56</docidentifier>  <contributor>    <role type="publisher"/>    <organization>      
+<name>International Telecommunication Union</name>
+      <abbreviation>ITU</abbreviation>      <uri>www.itu.int</uri>    </organization>  </contributor>  <edition>5</edition>  <language>en</language>  <script>Latn</script>  <status>    <stage>Published</stage>  </status>  <copyright>    <from>2011</from>    <owner>      <organization>        
+<name>International Telecommunication Union</name>
+        <abbreviation>ITU</abbreviation>        <uri>www.itu.int</uri>      </organization>    </owner>  </copyright>  <relation type="complements">    <bibitem type="standard">      <formattedref format="text/plain" language="en" script="Latn">P Suppl. 10 (11/1988)</formattedref>      <docidentifier type="ITU">P Suppl. 10 (11/1988)</docidentifier>    </bibitem>
+  </relation>  <relation type="complements">    <bibitem type="standard">      <formattedref format="text/plain" language="en" script="Latn">P Suppl. 16 (11/1988)</formattedref>      <docidentifier type="ITU">P Suppl. 16 (11/1988)</docidentifier>    </bibitem>
+  </relation>  <relation type="complements">    <bibitem type="standard">      <formattedref format="text/plain" language="en" script="Latn">P Suppl. 20 (03/1993)</formattedref>      <docidentifier type="ITU">P Suppl. 20 (03/1993)</docidentifier>    </bibitem>
+  </relation>  <relation type="complements">    <bibitem type="standard">      <formattedref format="text/plain" language="en" script="Latn">P Suppl. 23 (02/1998)</formattedref>      <docidentifier type="ITU">P Suppl. 23 (02/1998)</docidentifier>    </bibitem>
+  </relation>  <relation type="complements">    <bibitem type="standard">      <formattedref format="text/plain" language="en" script="Latn">P Suppl. 24 (10/2005)</formattedref>      <docidentifier type="ITU">P Suppl. 24 (10/2005)</docidentifier>    </bibitem>
+  </relation>  <relation type="complements">    <bibitem type="standard">      <formattedref format="text/plain" language="en" script="Latn">P Suppl. 25 (01/2011)</formattedref>      <docidentifier type="ITU">P Suppl. 25 (01/2011)</docidentifier>    </bibitem>
+  </relation>  <relation type="complements">    <bibitem type="standard">      <formattedref format="text/plain" language="en" script="Latn">P Suppl. 26 (09/2017)</formattedref>      <docidentifier type="ITU">P Suppl. 26 (09/2017)</docidentifier>    </bibitem>
+  </relation>  <relation type="complements">    <bibitem type="standard">      <formattedref format="text/plain" language="en" script="Latn">P Suppl. 28 (09/2020)</formattedref>      <docidentifier type="ITU">P Suppl. 28 (09/2020)</docidentifier>    </bibitem>
+  </relation>  <relation type="instance">    <bibitem type="standard">      <fetched>2022-09-06</fetched>      
+<title type="title-main" format="text/plain" language="en" script="Latn">Objective measurement of active speech level</title>
+      
+<title type="main" format="text/plain" language="en" script="Latn">Objective measurement of active speech level</title>
+      <uri type="src">https://www.itu.int/ITU-T/recommendations/rec.aspx?rec=11461&amp;lang=en</uri>      <uri type="obp">https://handle.itu.int/11.1002/1000/11461-en?locatt=format:pdf&amp;auth</uri>      <docidentifier type="ITU" primary="true">ITU-T P.56</docidentifier>      <date type="published">        <on>2011-12-14</on>      </date>      <contributor>        <role type="publisher"/>        <organization>          
+<name>International Telecommunication Union</name>
+          <abbreviation>ITU</abbreviation>          <uri>www.itu.int</uri>        </organization>      </contributor>      <edition>5</edition>      <language>en</language>      <script>Latn</script>      <abstract format="text/plain" language="en" script="Latn">Recommendation ITU-T P.56 describes an easy to implement method to objectively determine the active speech level. It also acts as a reference against which other methods can be compared. The purpose of this Recommendation is not to exclude any other method but to ensure that results from different methods give the same result.In the early 2011 revision Annex B was added providing the necessary information on how to use the active speech level meter for super-wideband (SWB) signals.This second 2011 revision adds Annex C, which provides the necessary information on how to use the active speech level meter for full band (FB) signals.</abstract>      <status>        <stage>Published</stage>      </status>      <copyright>        <from>2011</from>        <owner>          <organization>            
+<name>International Telecommunication Union</name>
+            <abbreviation>ITU</abbreviation>            <uri>www.itu.int</uri>          </organization>        </owner>      </copyright>      <relation type="complements">        <bibitem type="standard">          <formattedref format="text/plain" language="en" script="Latn">P Suppl. 10 (11/1988)</formattedref>          <docidentifier type="ITU">P Suppl. 10 (11/1988)</docidentifier>        </bibitem>
+      </relation>      <relation type="complements">        <bibitem type="standard">          <formattedref format="text/plain" language="en" script="Latn">P Suppl. 16 (11/1988)</formattedref>          <docidentifier type="ITU">P Suppl. 16 (11/1988)</docidentifier>        </bibitem>
+      </relation>      <relation type="complements">        <bibitem type="standard">          <formattedref format="text/plain" language="en" script="Latn">P Suppl. 20 (03/1993)</formattedref>          <docidentifier type="ITU">P Suppl. 20 (03/1993)</docidentifier>        </bibitem>
+      </relation>      <relation type="complements">        <bibitem type="standard">          <formattedref format="text/plain" language="en" script="Latn">P Suppl. 23 (02/1998)</formattedref>          <docidentifier type="ITU">P Suppl. 23 (02/1998)</docidentifier>        </bibitem>
+      </relation>      <relation type="complements">        <bibitem type="standard">          <formattedref format="text/plain" language="en" script="Latn">P Suppl. 24 (10/2005)</formattedref>          <docidentifier type="ITU">P Suppl. 24 (10/2005)</docidentifier>        </bibitem>
+      </relation>      <relation type="complements">        <bibitem type="standard">          <formattedref format="text/plain" language="en" script="Latn">P Suppl. 25 (01/2011)</formattedref>          <docidentifier type="ITU">P Suppl. 25 (01/2011)</docidentifier>        </bibitem>
+      </relation>      <relation type="complements">        <bibitem type="standard">          <formattedref format="text/plain" language="en" script="Latn">P Suppl. 26 (09/2017)</formattedref>          <docidentifier type="ITU">P Suppl. 26 (09/2017)</docidentifier>        </bibitem>
+      </relation>      <relation type="complements">        <bibitem type="standard">          <formattedref format="text/plain" language="en" script="Latn">P Suppl. 28 (09/2020)</formattedref>          <docidentifier type="ITU">P Suppl. 28 (09/2020)</docidentifier>        </bibitem>
+      </relation>      <place>Geneva</place>    </bibitem>
+  </relation>  <place>Geneva</place></bibitem><bibitem id="iso3166" type="standard">  <fetched>2022-09-06</fetched>  
+<title type="title-main" format="text/plain" language="en" script="Latn">Codes for the representation of names of countries and their subdivisions</title>
+  
+<title type="title-part" format="text/plain" language="en" script="Latn">Part 1: Country code</title>
+  
+<title type="main" format="text/plain" language="en" script="Latn">Codes for the representation of names of countries and their subdivisions — Part 1: Country code</title>
+  <uri type="src">https://www.iso.org/standard/72482.html</uri>  <uri type="obp">https://www.iso.org/obp/ui/#!iso:std:72482:en</uri>  <uri type="rss">https://www.iso.org/contents/data/standard/07/24/72482.detail.rss</uri>  <docidentifier type="ISO" primary="true">ISO 3166-1</docidentifier>  <docidentifier type="URN">urn:iso:std:iso:3166:-1:stage-60.60:ed-4</docidentifier>  <docnumber>3166</docnumber>  <contributor>    <role type="publisher"/>    <organization>      
+<name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>4</edition>  <language>en</language>  <script>Latn</script>  <status>    <stage>60</stage>    <substage>60</substage>  </status>  <copyright>    <from>2020</from>    <owner>      <organization>        
+<name>ISO</name>
+      </organization>    </owner>  </copyright>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 3166-1:2013</formattedref>      <docidentifier type="ISO" primary="true">ISO 3166-1:2013</docidentifier>    </bibitem>
+  </relation>  <relation type="instance">    <bibitem type="standard">      <fetched>2022-09-06</fetched>      
+<title type="title-main" format="text/plain" language="en" script="Latn">Codes for the representation of names of countries and their subdivisions</title>
+      
+<title type="title-part" format="text/plain" language="en" script="Latn">Part 1: Country code</title>
+      
+<title type="main" format="text/plain" language="en" script="Latn">Codes for the representation of names of countries and their subdivisions — Part 1: Country code</title>
+      <uri type="src">https://www.iso.org/standard/72482.html</uri>      <uri type="obp">https://www.iso.org/obp/ui/#!iso:std:72482:en</uri>      <uri type="rss">https://www.iso.org/contents/data/standard/07/24/72482.detail.rss</uri>      <docidentifier type="ISO" primary="true">ISO 3166-1:2020</docidentifier>      <docidentifier type="URN">urn:iso:std:iso:3166:-1:stage-60.60:ed-4</docidentifier>      <docnumber>3166</docnumber>      <date type="published">        <on>2020-08</on>      </date>      <contributor>        <role type="publisher"/>        <organization>          
+<name>International Organization for Standardization</name>
+          <abbreviation>ISO</abbreviation>          <uri>www.iso.org</uri>        </organization>      </contributor>      <edition>4</edition>      <language>en</language>      <script>Latn</script>      <abstract format="text/plain" language="en" script="Latn">This document specifies basic guidelines for the implementation and maintenance of country codes. This code is intended for use in any application requiring the expression of current country names in coded form.</abstract>      <status>        <stage>60</stage>        <substage>60</substage>      </status>      <copyright>        <from>2020</from>        <owner>          <organization>            
+<name>ISO</name>
+          </organization>        </owner>      </copyright>      <relation type="obsoletes">        <bibitem type="standard">          <formattedref format="text/plain">ISO 3166-1:2013</formattedref>          <docidentifier type="ISO" primary="true">ISO 3166-1:2013</docidentifier>        </bibitem>
+      </relation>      <place>Geneva</place>    </bibitem>
+  </relation>  <place>Geneva</place></bibitem><bibitem id="xmlschema" type="standard">  <fetched>2022-09-05</fetched>  
+<title format="text/plain">XML Schema Part 0: Primer Second Edition</title>
+  <uri type="src">https://www.w3.org/TR/xmlschema-0/</uri>  <docidentifier type="W3C" primary="true">W3C xmlschema-0</docidentifier>  <docnumber>xmlschema-0</docnumber>  <language>en</language>  <script>Latn</script>  <status>    <stage>recommendation</stage>  </status>  <relation type="hasEdition">    <bibitem>      <formattedref format="text/plain">W3C REC-xmlschema-0-20010502</formattedref>      <docidentifier type="W3C" primary="true">W3C REC-xmlschema-0-20010502</docidentifier>    </bibitem>
+  </relation>  <relation type="instance">    <bibitem>      <formattedref format="text/plain">W3C REC-xmlschema-0-20041028</formattedref>      <docidentifier type="W3C" primary="true">W3C REC-xmlschema-0-20041028</docidentifier>    </bibitem>
+  </relation>  <series>    
+<title format="text/plain">W3C REC</title>
+    <number>xmlschema-0</number>  </series></bibitem>
+ 
+ 
+ 
+ 
+</references></bibliography>
+</itu-standard>

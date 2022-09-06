@@ -1,0 +1,18 @@
+/__w/mn-templates-itu/mn-templates-itu/site/documents/technical-paper/document.err errors
+
+
+== Style
+
+(): No Keywords have been provided
+(): ITU-T xSTP-ACRONYM does not match ITU document identifier conventions
+
+
+== Document Attributes
+
+(): Title includes series name Technical Paper
+
+
+== Metanorma XML Syntax
+
+(XML Line 000017:10): element "address" not allowed yet; missing required element "name"
+(XML Line 000020:10): element "address" not allowed yet; missing required element "name"

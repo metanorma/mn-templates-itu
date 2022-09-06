@@ -1,0 +1,39 @@
+<bibdata type="standard">
+<title language="en" format="text/plain" type="main">Template for ITU Implementer's Guide</title>
+
+
+
+<docidentifier type="ITU">ITU-T G.Imp7713</docidentifier><docidentifier type="ITU-lang">ITU-T G.Imp7713-E</docidentifier><docidentifier type="ITU-Recommendation">G.7713.1</docidentifier><docidentifier type="ITU-Recommendation">Y.1704.1</docidentifier><docnumber>G.Imp7713</docnumber><date type="published"><on>2050-02-28</on></date><contributor><role type="author"/><organization>
+<name>International Telecommunication Union</name>
+</organization></contributor><contributor><role type="editor">raporteur</role><person>
+<name><completename>Fred Flintstone</completename></name>
+<affiliation><organization>
+<name>Bedrock Quarry</name>
+<address><formattedAddress>Canada</formattedAddress></address></organization></affiliation><phone>555 5555</phone><phone type="fax">555 5556</phone><email>x@example.com</email></person></contributor><contributor><role type="author"/><person>
+<name><completename/></name>
+<affiliation><organization>
+<address><formattedAddress/></address></organization></affiliation></person></contributor><contributor><role type="author"/><person>
+<name><completename/></name>
+<affiliation><organization>
+<address><formattedAddress/></address></organization></affiliation></person></contributor><contributor><role type="publisher"/><organization>
+<name>International Telecommunication Union</name>
+</organization></contributor><language>en</language><script>Latn</script><abstract><p>This document is…​</p>
+
+<p>This revision contains all updates submitted up to and including those at Study Group YY meeting in <em>{Month Year}</em>.</p>
+
+<p>This document was approved by ITU-T Study Group YY on <em>{Day Month Year}</em> and <em>{obsoletes | complements}</em> the earlier version of this implementers' guide approved on <em>{Day Month Year}</em>.</p>
+</abstract><status><stage>draft</stage></status><copyright><from>2022</from><owner><organization>
+<name>International Telecommunication Union</name>
+</organization></owner></copyright><series type="main">
+<title>W: Authoring templates</title>
+</series><series type="secondary">
+<title>Implementer's Guide</title>
+</series><series type="tertiary">
+<title>Metanorma template</title>
+</series><keyword>Authoring</keyword><keyword>implementers-guide</keyword><keyword>metanorma</keyword><keyword>template</keyword><ext><doctype>implementers-guide</doctype><editorialgroup><bureau>T</bureau><group>
+<name>Question ABC</name>
+</group><subgroup>
+<name>Study Group XYZ</name>
+</subgroup><workgroup>
+<name>WG1</name>
+</workgroup></editorialgroup><ip-notice-received>false</ip-notice-received><meeting>Focus Group on Vehicular Multimedia meeting</meeting><meeting-date><from>2000-01-01</from><to>2000-01-02</to></meeting-date><intended-type>TD</intended-type><source>Source</source><structuredidentifier><bureau>T</bureau><docnumber>G.Imp7713</docnumber></structuredidentifier></ext></bibdata>

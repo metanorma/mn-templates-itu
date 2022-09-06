@@ -1,0 +1,52 @@
+/__w/mn-templates-itu/mn-templates-itu/site/documents/focus-group/document.err errors
+
+
+== Style
+
+(): No Keywords have been provided
+(): ITU-T FGABC-xxx does not match ITU document identifier conventions
+(XML Line 000153): bitcoin: term definition does not start with capital
+	<term id="term-bitcoin"><preferred><expression>
+	<name>bitcoin</name>
+	</expression>
+	</preferred>
+	<definition><verbal-definition><p id="_3eb0978f-82e9-933f-23e5-695d3a077151">an example of a blockchain using Proof of Work.</p></verbal-definition></definition>
+(XML Line 000160): block: term definition does not start with capital
+	<term id="term-block"><preferred><expression>
+	<name>block</name>
+	</expression>
+	</preferred>
+	<definition><verbal-definition><p id="_deca3b9b-8168-48c6-e332-0713a18a0f68">individual data unit of a blockchain, composed of a collection of transactions and a block
+(XML Line 000160): block: term definition does not end with period
+	<term id="term-block"><preferred><expression>
+	<name>block</name>
+	</expression>
+	</preferred>
+	<definition><verbal-definition><p id="_deca3b9b-8168-48c6-e332-0713a18a0f68">individual data unit of a blockchain, composed of a collection of transactions and a block
+(XML Line 000173): account: term definition does not start with capital
+	<term id="term-account"><preferred><expression>
+	<name>account</name>
+	</expression>
+	</preferred>
+	<definition><verbal-definition><p id="_f6f11639-5987-d072-dbfc-95d287877f76">representation of an entity whose data is recorded on a distributed ledger.</p></verbal-definition></definition>
+(XML Line 000180): address: term definition does not start with capital
+	<term id="term-address"><preferred><expression>
+	<name>address</name>
+	</expression>
+	</preferred>
+	<definition><verbal-definition><p id="_28e11349-685b-1342-8f0b-6e57ad6d72a3">identifier for entity(ies) performing transactions or other actions in a blockchain or
+(XML Line 000180): address: term definition does not end with period
+	<term id="term-address"><preferred><expression>
+	<name>address</name>
+	</expression>
+	</preferred>
+	<definition><verbal-definition><p id="_28e11349-685b-1342-8f0b-6e57ad6d72a3">identifier for entity(ies) performing transactions or other actions in a blockchain or
+
+
+== Metanorma XML Syntax
+
+(XML Line 000133:15): element "definitions" incomplete; missing required element "dl"
+(XML Line 000252:18): element "docidentifier" not allowed yet; missing required element "title"
+(XML Line 000256:18): element "docidentifier" not allowed yet; missing required element "title"
+(XML Line 000260:18): element "docidentifier" not allowed yet; missing required element "title"
+(XML Line 000264:18): element "docidentifier" not allowed yet; missing required element "title"
