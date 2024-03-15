@@ -1,12 +1,30 @@
 = Template for ITU Technical Report
 :comment: ### Bureau that the documents belongs to; mandatory. Permitted types: T (ITU-T), R (ITU-R), D (ITU-D)
 :bureau: T
-:comment: ### The Question that the report belongs under, modelled as an editorial group
-:group: Question ABC
-:comment: ### The Study Group (subquestion) that the report belongs under, modelled as an editorial group
-:subgroup: Study Group XYZ
-:comment: ### The Working Group that has worked on the report
-:workgroup: WG1
+:comment: ### The Question that the report belongs under. If there are multiple Questions, they are comma-delimited, and Questions containing commas must be quoted. The Question should be prefixed with its identifier followed by colon.
+:question: Q10/17: Identity management and telebiometrics architecture and mechanisms, "Q11/17: Generic technologies (such as Directory, PKI, formal languages, object identifiers) to support secure applications"
+:comment: ### The type of top-level editorial group that the report belongs under; by default study-group. Legal values include: tsag, study-group, focus-group, adhoc-group, correspondence-group, joint-coordination-activity, working-party, working-group, rapporteur-group, intersector-rapporteur-group, regional-group
+:group-type: study-group
+:comment: ### The Study Group (or similar) that the report belongs under, modelled as an editorial group
+:group: Study Group XYZ
+:comment: ### The standard acronym of the Study Group
+:group-acronym: SG-XYZ
+:comment: ### Year that the group's study period started
+:group-year-start: 2024
+:comment: ### Year that the group's study period ended
+:group-year-end: 2026
+:comment: ### The type of second-level editorial group that the report belongs under. Legal values as for group-type
+:subgroup-type: working-party
+:comment: ### The second-level editorial group that the report belongs under
+:subgroup: Working Party on Widgets
+:comment: ### The standard acronym of the second-level editorial group
+:subgroup-acronym: WP-W
+:comment: ### The type of third-level editorial group that the report belongs under, if present. Legal values as for group-type
+:workgroup-type: rapporteur-group
+:comment: ### The third-level editorial group that the report belongs under, if present
+:workgroup: Rapporteur Group on Widget Rollout
+:comment: ### The standard acronym of the thirf-level editorial group, if present
+:workgroup-acronym: RG-WR
 :comment: ### Name of the meeting
 :meeting: Focus Group on Vehicular Multimedia meeting
 :comment: ### Date of the meeting, entered in YYYY-MM-DD or YYYY-MM-DD/YYYY-MM-DD
