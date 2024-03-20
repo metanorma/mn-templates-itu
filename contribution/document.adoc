@@ -34,7 +34,7 @@
 :comment: ### Document type; mandatory. Visit: https://www.metanorma.com/author/itu/authoring/ for permitted types
 :doctype: contribution
 :comment: ### Type of contribution. If there is an attached document that the contribution proposes or updates, this is the type of that document, as specified in https://www.metanorma.com/author/itu/authoring/ . Otherwise, use `generic`
-:doctype: generic
+:subdoctype: generic
 :comment: ### Comma delimited keywords; mandatory
 :keywords: authoring, technical-report, template, metanorma
 :comment: ### First contact
