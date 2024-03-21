@@ -2,6 +2,18 @@
 [[specific_contents]]
 == Specific contents: could be introduction or something more substantive
 
+[Your text starts here.
+
+Before submitting this document:
+
+*	Update the information in the document attributes: document number (n), Question(s), source, title, contact information and abstract.
+*	Make sure that the title and the source or sources inserted in your Contribution (word document) are the same inserted in the DDP online form.
+*	If you need more contact information rows, keep adding attributes with an incrementing number (`fullname_3`, `fullname_4`, `fullname_5` etc.)
+*	Remove this text.
+
+]
+
+
 _[ADD TEXT.]_
 
 [[table1]]
