@@ -1,0 +1,11 @@
+
+[[appendix1]]
+[appendix,obligation=informative]
+== Appendix Title
+
+Body of Appendix I.
+
+[format="csv",options="header"]
+|===
+include::../data/codes.csv[]
+|===
