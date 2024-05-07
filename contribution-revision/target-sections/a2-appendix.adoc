@@ -5,7 +5,3 @@
 
 Body of Appendix I.
 
-[format="csv",options="header"]
-|===
-include::../data/codes.csv[]
-|===

@@ -17,15 +17,3 @@ Here's where you place your main content.
 The following data models are used by other data models specified in
 this document.
 
-==== Basic data types
-
-[plantuml]
-....
-include::../models/style.uml.inc[]
-include::../models/datatypes.wsd[]
-....
-
-==== H.782 models
-
-image::h.782-models.png[]
-

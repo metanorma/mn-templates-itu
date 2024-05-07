@@ -21,16 +21,13 @@ format:
   - presentation
   - html
   - doc
-output_folder: brochure
+output_folder: contribution
 manifest:
-  level: collection
-  title: ITU Collection
-  manifest:
-    - level: document
-      title: Document
-      docref:
-        - fileref: document.xml
-          identifier: SG17-C660
-        - fileref: target.xml
-          identifier: ITU G.650
+  - level: document
+    title: Document
+    docref:
+      - fileref: _site/documents/document.xml
+        identifier: SG17-C660
+      - fileref: _site/documents/target.xml
+        identifier: ITU G.650
 

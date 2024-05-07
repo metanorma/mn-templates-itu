@@ -44,7 +44,7 @@ They are compiled as
 
 [source,console]
 ----
-bundle exec metanorma site generate -c brochure.yml --agree-to-terms
+bundle exec metanorma site generate -c contribution.yml --agree-to-terms
 ----
 
 These ``doctype``s aren't supported yet:
