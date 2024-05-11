@@ -23,9 +23,9 @@ format:
   - doc
 output_folder: contribution
 manifest:
-  - level: document
-    title: Document
-    docref:
+  level: document
+  title: Document
+  docref:
       - fileref: _site/documents/document.xml
         identifier: SG17-C660
       - fileref: _site/documents/target.xml

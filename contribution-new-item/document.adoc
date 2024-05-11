@@ -1,4 +1,4 @@
-= Template for ITU Revision Contribution
+= Template for ITU New Item Contribution
 :comment: ### Bureau that the documents belongs to; mandatory. Permitted types: T (ITU-T), R (ITU-R), D (ITU-D)
 :bureau: T
 :comment: ### The Question that the report belongs under. If there are multiple Questions, they are comma-delimited, and Questions containing commas must be quoted. The Question should be prefixed with its identifier followed by colon.
@@ -34,7 +34,11 @@
 :comment: ### Document type; mandatory. Visit: https://www.metanorma.com/author/itu/authoring/ for permitted types
 :doctype: contribution
 :comment: ### Type of contribution. If there is an attached document that the contribution proposes or updates, this is the type of that document, as specified in https://www.metanorma.com/author/itu/authoring/ . Otherwise, use `generic`
-:subdoctype: generic
+:subdoctype: resolution
+:comment: ### Timeframe within which the proposed document is expected to be delivered.
+:timing: Q4-2025
+:comment: ### Process through which the proposed document will be approved.
+:approval-process: Agreement
 :comment: ### Comma delimited keywords; mandatory
 :keywords: authoring, technical-report, template, metanorma
 :comment: ### First contact
@@ -81,4 +85,3 @@ include::sections/01-content.adoc[]
 
 include::sections/a1-annexA.adoc[]
 
-include::sections/a1-appendix.adoc[]
