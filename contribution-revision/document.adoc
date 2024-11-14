@@ -1,0 +1,84 @@
+= Template for ITU Revision Contribution
+:comment: ### Bureau that the documents belongs to; mandatory. Permitted types: T (ITU-T), R (ITU-R), D (ITU-D)
+:bureau: T
+:comment: ### The Question that the report belongs under. If there are multiple Questions, they are comma-delimited, and Questions containing commas must be quoted. The Question should be prefixed with its identifier followed by colon.
+:question: Q10/17: Identity management and telebiometrics architecture and mechanisms, "Q11/17: Generic technologies (such as Directory, PKI, formal languages, object identifiers) to support secure applications"
+:comment: ### The type of top-level editorial group that the report belongs under; by default study-group. Legal values include: tsag, study-group, focus-group, adhoc-group, correspondence-group, joint-coordination-activity, working-party, working-group, rapporteur-group, intersector-rapporteur-group, regional-group
+:group-type: study-group
+:comment: ### The Study Group (or similar) that the report belongs under, modelled as an editorial group
+:group: Study Group 17
+:comment: ### The standard acronym of the Study Group
+:group-acronym: SG 17
+:comment: ### Year that the group's study period started
+:group-year-start: 2024
+:comment: ### Year that the group's study period ended
+:group-year-end: 2026
+:comment: ### Name of the meeting
+:meeting: Focus Group on Vehicular Multimedia meeting
+:comment: ### Date of the meeting, entered in YYYY-MM-DD or YYYY-MM-DD/YYYY-MM-DD
+:meeting-date: 2000-01-01/2000-01-02
+:comment: ### Place of the meeting
+:meeting-place: Geneva
+:comment: ### Language of document
+:language: en
+:comment: ### Source
+:source: Source
+:comment: ### Number of contribution document. The document identifier will use the docnumber as its numeric component; e.g. SG 17-C3000 needs just `3000` as the docnumber
+:docnumber: 3000
+:comment: ### Date on which the standard was updated; mandatory
+:published-date: 2050-02-28
+:comment: ### Document status/stage; mandatory. Synonym: docstage. Visit: https://www.metanorma.com/author/itu/authoring/ for permitted types
+:status: in-force-prepublished
+:comment: ### add draft attribute if this is a draft, giving the version of the document
+:draft: 5
+:comment: ### Document type; mandatory. Visit: https://www.metanorma.com/author/itu/authoring/ for permitted types
+:doctype: contribution
+:comment: ### Type of contribution. If there is an attached document that the contribution proposes or updates, this is the type of that document, as specified in https://www.metanorma.com/author/itu/authoring/ . Otherwise, use `generic`
+:subdoctype: generic
+:comment: ### Comma delimited keywords; mandatory
+:keywords: authoring, technical-report, template, metanorma
+:comment: ### First contact
+:fullname: Fred Flintstone
+:comment: ### Company/Organization of first contact
+:affiliation: Bedrock Quarry
+:comment: ### Country of first contact
+:address: Canada
+:comment: ### Phone of first contact
+:phone: 555 5555
+:comment: ### Fax of first contact
+:fax: 555 5556
+:comment: ### Email of first contact
+:email: x@example.com
+:comment: ### Details of second contact
+:fullname_2:
+:affiliation_2:
+:address_2:
+:phone_2:
+:fax_2:
+:email_2:
+:comment: ### Details of third contact
+:fullname_3:
+:affiliation_3:
+:address_3:
+:phone_3:
+:fax_3:
+:email_3:
+:comment: ### Directory name used as prefix for the location of image files; optional
+:imagesdir: images
+:comment: ### Metanorma flavor; mandatory
+:mn-document-class: itu
+:comment: ### Desired output formats; mandatory
+:mn-output-extensions: xml,html,doc,rxl
+:comment: ### Enable local relaton cache for quick inclusion of prefetched references; optional. For further information, visit: https://www.metanorma.com/author/ref/document-attributes/#caches, https://www.metanorma.com/author/topics/building/reference-lookup/#lookup-result-caching
+:local-cache-only:
+:comment: ### Encode all images in HTML output as inline data-URIs; optional
+:data-uri-image:
+
+
+include::sections/00-summary.adoc[]
+
+include::sections/01-content.adoc[]
+
+include::sections/a1-annexA.adoc[]
+
+include::sections/a1-appendix.adoc[]

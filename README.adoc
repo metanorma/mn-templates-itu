@@ -28,6 +28,24 @@ These templates are provided in this template repository:
   (`doctype == 'technical-report'`)
 `joint-itu-iso-iec`::
   (`doctype == 'joint-itu-iso-iec'`)
+`contribution-generic`::
+  (`doctype == 'contribution'`), with no target document
+
+The following templates are processed as document collections, separating a framing document
+from a target document that they are proposing or revising:
+
+`contribution-revision`::
+  (`doctype == 'contribution'`) + (`document == *`)
+`contribution-new-work-item`::
+  (`doctype == 'contribution'`) + (`document == *`); different form presented as Annex A for `document == 'recommendation'`,
+and any other document types
+
+They are compiled as
+
+[source,console]
+----
+bundle exec metanorma site generate -c contribution.yml --agree-to-terms
+----
 
 These ``doctype``s aren't supported yet:
 

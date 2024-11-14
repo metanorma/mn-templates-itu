@@ -1,0 +1,16 @@
+---
+metanorma:
+  source:
+    files:
+
+    # Prerequisites of the collection 
+    - document.adoc
+    - target.adoc
+
+    # The SI Brochure collection
+    - collection.yml
+
+  collection:
+    organization: "ITU"
+    name: "Contribution Revision XXX"
+

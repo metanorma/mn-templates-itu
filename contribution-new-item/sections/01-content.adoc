@@ -1,0 +1,33 @@
+
+[[specific_contents]]
+== Specific contents: could be introduction or something more substantive
+
+[Your text starts here.
+
+Before submitting this document:
+
+*	Update the information in the document attributes: document number (n), Question(s), source, title, contact information and abstract.
+*	Make sure that the title and the source or sources inserted in your Contribution (word document) are the same inserted in the DDP online form.
+*	If you need more contact information rows, keep adding attributes with an incrementing number (`fullname_3`, `fullname_4`, `fullname_5` etc.)
+*	Remove this text.
+
+]
+
+
+_[ADD TEXT.]_
+
+[[table1]]
+.Example of a table
+[cols="2*",options="header"]
+|===
+|Number |Observation
+
+|1 |Sample table
+|2 |Table header (1st row) uses style Table_head
+|3 |Other table rows use style Table_text
+|4 |Heading with table number uses style "Table_No & title"
+
+|===
+
+.Example of a figure
+image::example-fig.png[]

@@ -1,0 +1,8 @@
+
+[abstract]
+== Abstract
+
+// This abstract will automatically be inserted into a table formatted as in the normal contribution template.
+
+[Insert an abstract under 200 words that describes the content of the contribution in a form suitable for inclusion in the meeting report as a summary of the content of the document, including a clear description of any proposals it may contain. See also Rec.A.2, clause I.1.2 for guidance.]
+
